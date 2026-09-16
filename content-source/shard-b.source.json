@@ -1,0 +1,274 @@
+{
+ "shard": "b",
+ "scope": "2.3 + 2.4 + 2.5 + 2.6",
+ "meta": {
+  "title_en": "Ethics of Artificial Intelligence and Robotics",
+  "author": "Vincent C. Müller",
+  "pubinfo": "First published Thu Apr 30, 2020; substantive revision Fri Mar 27, 2026",
+  "archive": "Summer 2026",
+  "source_url": "https://plato.stanford.edu/archives/sum2026/entries/ethics-ai/",
+  "publisher": "Stanford Encyclopedia of Philosophy (SEP)"
+ },
+ "blocks": [
+  {
+   "kind": "heading",
+   "text_en": "2.3 Epistemic Issues: Opacity & Explainability",
+   "level": 3,
+   "id": "EpiIssOpaExp",
+   "num": "2.3",
+   "title_en": "Epistemic Issues: Opacity & Explainability"
+  },
+  {
+   "kind": "p",
+   "text_en": "When an AI system makes a decision, e.g. “you are denied a credit card”, it will often be impossible for the affected person to know how the system came to this output, i.e. the system is “opaque” or “black box” to that person. Furthermore, many AI systems rely on machine learning techniques in (simulated) neural networks that will extract patterns from a given dataset, with or without “correct” solutions provided; i.e. supervised, semi-supervised or unsupervised. With these techniques, the “learning” captures patterns in the data and these are labelled in a way that appears useful to the decision the system makes, while the programmer does not really know which patterns in the data the system has used. What this means is that the outcome is opaque to the expert programmers, too – this is standard opacity (Durán and Jongsma 2021). Sometimes, there is perhaps even “deep” or “essential” opacity that cannot be removed, in principle (Humphreys 2009; Müller 2025a; Beisbart 2026).",
+   "html_en": "When an AI system makes a decision, e.g. “you are denied a credit card”, it will often be impossible for the affected person to know how the system came to this output, i.e. the system is “opaque” or “black box” to that person. Furthermore, many AI systems rely on machine learning techniques in (simulated) neural networks that will extract patterns from a given dataset, with or without “correct” solutions provided; i.e. supervised, semi-supervised or unsupervised. With these techniques, the “learning” captures patterns in the data and these are labelled in a way that appears useful to the decision the system makes, while the programmer does not really know <em>which</em> patterns in the data the system has used. What this means is that the outcome is opaque to the expert programmers, too – this is standard opacity (Durán and Jongsma 2021). Sometimes, there is perhaps even “deep” or “essential” opacity that cannot be removed, in principle (Humphreys 2009; Müller 2025a; Beisbart 2026).",
+   "pid": "p030"
+  },
+  {
+   "kind": "p",
+   "text_en": "It is well known that epistemic conditions have an impact on normative issues. In our case, if there is opacity, then any bias in decision-making will be hard to detect. Opacity and bias are central issues in what is now sometimes called “data ethics”, “big data ethics” or “ethics of algorithms” (Floridi and Taddeo 2016; Mittelstadt et al. 2016). AI systems for automated decision support and “predictive analytics” raise “significant concerns about lack of due process, accountability, community engagement, and auditing” (Danaher 2016b; Whittaker et al. 2018, 18ff). It is not clear that the idea of a right to a human decision or justification, as in the GDPR, is really what is needed; some authors have argued that instead we have a right to right to a “well-calibrated machine decision” (Huq 2020) or that we need to avoid a “testimony gap” (Robert Sparrow and Flenady 2025). Sometimes opacity and manipulation are discussed under the headings of “epistemic technology” (Alvarado 2023) or “epistemic risk”, but it remains to be seen whether notions and questions from traditional epistemology (about the conditions for true justified belief) are suitable for the many ways in which human perception and knowledge are impacted by AI technologies.",
+   "html_en": "It is well known that epistemic conditions have an impact on normative issues. In our case, if there is opacity, then any bias in decision-making will be hard to detect. Opacity and bias are central issues in what is now sometimes called “data ethics”, “big data ethics” or “ethics of algorithms” (Floridi and Taddeo 2016; Mittelstadt et al. 2016). AI systems for automated decision support and “predictive analytics” raise “significant concerns about lack of due process, accountability, community engagement, and auditing” (Danaher 2016b; Whittaker et al. 2018, 18ff). It is not clear that the idea of a right to a human decision or justification, as in the GDPR, is really what is needed; some authors have argued that instead we have a right to right to a “well-calibrated machine decision” (Huq 2020) or that we need to avoid a “testimony gap” (Robert Sparrow and Flenady 2025). Sometimes opacity and manipulation are discussed under the headings of “epistemic technology” (Alvarado 2023) or “epistemic risk”, but it remains to be seen whether notions and questions from traditional epistemology (about the conditions for true justified belief) are suitable for the many ways in which human perception and knowledge are impacted by AI technologies.",
+   "pid": "p031"
+  },
+  {
+   "kind": "p",
+   "text_en": "The opacity has generated attempts to outline the constraints for explainable AI (XAI) (Zednik 2021) and the role of cognitive models (Budding and Zednik 2024). What exactly “interpretable” means is under discussion, especially its relation to explanation (Sullivan 2022; Zerilli 2022) and trust (Baron 2025; Robertson 2025) – the typical distinction is between the causes that lead to a decision and the reasons that a rational agent would provide, where the latter is what counts for responsibility. There are many activities that aim to remove or remedy opacity through “explainable AI” (XAI), which is now a significant technical field (Schwalbe and Finzel 2024).",
+   "html_en": "The opacity has generated attempts to outline the constraints for explainable AI (XAI) (Zednik 2021) and the role of cognitive models (Budding and Zednik 2024). What exactly “interpretable” means is under discussion, especially its relation to explanation (Sullivan 2022; Zerilli 2022) and trust (Baron 2025; Robertson 2025) – the typical distinction is between the causes that lead to a decision and the reasons that a rational agent would provide, where the latter is what counts for responsibility. There are many activities that aim to remove or remedy opacity through “explainable AI” (XAI), which is now a significant technical field (Schwalbe and Finzel 2024).",
+   "pid": "p032"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.4 Good Decisions: Fairness & Bias",
+   "level": 3,
+   "id": "GooDecFaiBia",
+   "num": "2.4",
+   "title_en": "Good Decisions: Fairness & Bias"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.4.1 Decisions",
+   "level": 4,
+   "id": "sec-2-4-1",
+   "num": "2.4.1",
+   "title_en": "Decisions"
+  },
+  {
+   "kind": "p",
+   "text_en": "As mentioned above, it can be useful to regard all AI systems as decision systems. What constitutes a “good” decision is hotly debated in the theory of rational choice (Thoma 2019). It has also been argued that some hard choices are “on a par” (Chang 2002), but it does matter which one is chosen, because we make it “ours” for the future (Chang 2020). It is worth considering whether AI decisions or recommendations should be based on the assumption of user “preferences”. This is a common terminology in IT, but it is not clear that the science that specialises on the prediction of human behaviour (psychology) makes much use of it.",
+   "html_en": "As mentioned above, it can be useful to regard all AI systems as decision systems. What constitutes a “good” decision is hotly debated in the theory of rational choice (Thoma 2019). It has also been argued that some hard choices are “on a par” (Chang 2002), but it <em>does</em> matter which one is chosen, because we make it “ours” for the future (Chang 2020). It is worth considering whether AI decisions or recommendations should be based on the assumption of user “preferences”. This is a common terminology in IT, but it is not clear that the science that specialises on the prediction of human behaviour (psychology) makes much use of it.",
+   "pid": "p033"
+  },
+  {
+   "kind": "p",
+   "text_en": "Automated AI decision support systems and “predictive analytics” operate on data and produce a decision as “output”. This output may range from the relatively trivial to the highly significant: “this restaurant matches your preferences”, “bail is denied”, or “target identified and engaged”. Data analysis is often used in “predictive analytics” in business, healthcare and other fields, to foresee future developments – since prediction is easier, it will also become a cheaper commodity. One use of prediction is in “predictive policing” (Meijer and Wessels 2019), which involves a threat to public liberties (Alikhademi et al. 2022) because it can take away power from the people who are predicted. It appears, however, that many of the worries about policing depend on futuristic scenarios where law enforcement foresees and punishes planned actions, rather than waiting until a crime has been committed (like in the 2002 film “Minority Report”). In principle, there could be merits in the approach for all stakeholders (Asaro 2019).",
+   "html_en": "Automated AI decision support systems and “predictive analytics” operate on data and produce a decision as “output”. This output may range from the relatively trivial to the highly significant: “this restaurant matches your preferences”, “bail is denied”, or “target identified and engaged”. Data analysis is often used in “predictive analytics” in business, healthcare and other fields, to foresee future developments – since prediction is easier, it will also become a cheaper commodity. One use of prediction is in “predictive policing” (Meijer and Wessels 2019), which involves a threat to public liberties (Alikhademi et al. 2022) because it can take away power from the people who are predicted. It appears, however, that many of the worries about policing depend on futuristic scenarios where law enforcement foresees and punishes planned actions, rather than waiting until a crime has been committed (like in the 2002 film “Minority Report”). In principle, there could be merits in the approach for all stakeholders (Asaro 2019).",
+   "pid": "p034"
+  },
+  {
+   "kind": "p",
+   "text_en": "With the advent of LLMs, it became more conceivable to have AI systems themselves advising on ethical matters. Perhaps AI systems could even allow us to become better humans, by our own standards (O’Neill, Klincewicz, and Kemmer 2022). It appears that even early versions were doing well enough such that “no significant difference in the perceived value of the advice between human generated ethical advice and AI-generated ethical advice” was seen (Terwiesch, Meincke, and Nave 2023).",
+   "html_en": "With the advent of LLMs, it became more conceivable to have AI systems themselves advising on ethical matters. Perhaps AI systems could even allow us to become better humans, by our own standards (O’Neill, Klincewicz, and Kemmer 2022). It appears that even early versions were doing well enough such that “no significant difference in the perceived value of the advice between human generated ethical advice and AI-generated ethical advice” was seen (Terwiesch, Meincke, and Nave 2023).",
+   "pid": "p035"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.4.2 Bias",
+   "level": 4,
+   "id": "sec-2-4-2",
+   "num": "2.4.2",
+   "title_en": "Bias"
+  },
+  {
+   "kind": "p",
+   "text_en": "AI systems can be used in the support or replacement of human decisions, and in these cases the decisions can have a “bias”, i.e. it can make a decision on the basis of criteria that are irrelevant, and perhaps thus discriminate negatively against some individual or group (cf. also Friedman 1996). Bias typically surfaces when unfair judgments are made because the individual making the judgment is influenced by a characteristic that is actually irrelevant to the matter at hand, typically a discriminatory preconception about members of a group. The person having a bias may not be aware of having that bias – they may even be honestly and explicitly opposed to a bias they are found to have (e.g. through priming, cf. (Graham and Lowery 2004)). On fairness vs. bias in machine learning, see (Binns 2018), on the more general notion of bias (Johnson 2024).",
+   "html_en": "AI systems can be used in the support or replacement of human decisions, and in these cases the decisions can have a “bias”, i.e. it can make a decision on the basis of criteria that are irrelevant, and perhaps thus discriminate negatively against some individual or group (cf. also Friedman 1996). Bias typically surfaces when unfair judgments are made because the individual making the judgment is influenced by a characteristic that is <em>actually</em> irrelevant to the matter at hand, typically a discriminatory preconception about members of a group. The person having a bias may not be aware of having that bias – they may even be honestly and explicitly opposed to a bias they are found to have (e.g. through priming, cf. (Graham and Lowery 2004)). On fairness vs. bias in machine learning, see (Binns 2018), on the more general notion of bias (Johnson 2024).",
+   "pid": "p036"
+  },
+  {
+   "kind": "p",
+   "text_en": "Apart from the social phenomenon of learned bias, the human cognitive system is generally prone to have various kinds of “cognitive biases”, e.g. the “confirmation bias”: humans tend to interpret information as confirming what they already believe. Though these forms of bias are often said to impede performance in rational judgment (Kahnemann 2011), they are really just a way for cognitive systems to deal with the fact that resources available for a given decision (time, data) are always limited. This is known as “bounded optimality” in computer science (S. Russell 2016) or “resource-rational analysis” in psychology (Lieder and Griffiths 2020).",
+   "html_en": "Apart from the social phenomenon of learned bias, the human cognitive system is generally prone to have various kinds of “cognitive biases”, e.g. the “confirmation bias”: humans tend to interpret information as confirming what they already believe. Though these forms of bias are often said to impede performance in rational judgment (Kahnemann 2011), they are really just a way for cognitive systems to deal with the fact that resources available for a given decision (time, data) are always limited. This is known as “bounded optimality” in computer science (S. Russell 2016) or “resource-rational analysis” in psychology (Lieder and Griffiths 2020).",
+   "pid": "p037"
+  },
+  {
+   "kind": "p",
+   "text_en": "A third form of bias is in present in data, when it exhibits systematic error, e.g. one of the various kinds of “statistical bias”. Strictly, any given dataset will only be unbiased for a single kind of issue, so the mere creation of a dataset involves the danger that may it be used for a different kind of issue, and then turn out to be biased for that kind. Machine learning on the basis of such data would then not only fail to recognise the bias, but codify and automate the “historical bias”. The problem with such systems is thus bias plus humans placing excessive trust in the systems. The political repercussions of such automated systems can be significant (Eubanks 2018). Furthermore, the quality of the program depends heavily on the quality of the data provided, following the old slogan “garbage in, garbage out”. So, if the data already involved a bias (e.g. police data about the skin colour of suspects), then the program will reproduce that bias. Some have argued that the ethical problems of today are the result of technical “shortcuts” AI has taken (Marcus 2018 [Other Internet Resources]; Cristianini 2023) – which links the problem of bias to the general philosophy of technology (see below).",
+   "html_en": "A third form of bias is in present in data, when it exhibits systematic error, e.g. one of the various kinds of “statistical bias”. Strictly, any given dataset will only be unbiased for a single kind of issue, so the mere creation of a dataset involves the danger that may it be used for a different kind of issue, and then turn out to be biased for that kind. Machine learning on the basis of such data would then not only fail to recognise the bias, but codify and automate the “historical bias”. The problem with such systems is thus bias plus humans placing excessive trust in the systems. The political repercussions of such automated systems can be significant (Eubanks 2018). Furthermore, the quality of the program depends heavily on the quality of the data provided, following the old slogan “garbage in, garbage out”. So, if the data already involved a bias (e.g. police data about the skin colour of suspects), then the program will reproduce that bias. Some have argued that the ethical problems of today are the result of technical “shortcuts” AI has taken (Marcus 2018 [Other Internet Resources]; Cristianini 2023) – which links the problem of bias to the general philosophy of technology (see below).",
+   "pid": "p038"
+  },
+  {
+   "kind": "p",
+   "text_en": "It appears that technological fixes for the problem of bias have inherent limits in that they need a mathematical notion of fairness, which is hard to come by (Whittaker et al. 2018, 24ff; Selbst et al. 2019); as is a formal notion of key terms, like “race” (see Benthall and Haynes 2019) or “woman” (Mason 2022).",
+   "html_en": "It appears that technological fixes for the problem of bias have inherent limits in that they need a mathematical notion of fairness, which is hard to come by (Whittaker et al. 2018, 24ff; Selbst et al. 2019); as is a formal notion of key terms, like “race” (see Benthall and Haynes 2019) or “woman” (Mason 2022).",
+   "pid": "p039"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.5 Human-Robot Interaction",
+   "level": 3,
+   "id": "HumRobInt",
+   "num": "2.5",
+   "title_en": "Human-Robot Interaction"
+  },
+  {
+   "kind": "p",
+   "text_en": "Human-robot interaction (HRI) is an academic fields in its own right, which now pays significant attention to ethical matters, the dynamics of perception from both sides, and both the different interests present in and the intricacy of the social context, including co-working (e.g. Arnold and Scheutz 2017).",
+   "html_en": "Human-robot interaction (HRI) is an academic fields in its own right, which now pays significant attention to ethical matters, the dynamics of perception from both sides, and both the different interests present in and the intricacy of the social context, including co-working (e.g. Arnold and Scheutz 2017).",
+   "pid": "p040"
+  },
+  {
+   "kind": "p",
+   "text_en": "AI it can also be used to drive robots that are problematic if their processes or appearance involve deception, threaten human dignity, or violate the Kantian requirement of “respect for humanity”. It appears that humans very easily attribute mental properties to objects, and empathise with them, especially when the outer appearance of these objects is similar to that of living beings. This can be used to deceive humans (or animals) into attributing more intellectual or even emotional significance to robots or AI systems than they deserve. Some parts of humanoid and animal robotics are problematic in this regard.",
+   "html_en": "AI it can also be used to drive robots that are problematic if their processes or appearance involve deception, threaten human dignity, or violate the Kantian requirement of “respect for humanity”. It appears that humans very easily attribute mental properties to objects, and empathise with them, especially when the outer appearance of these objects is similar to that of living beings. This can be used to deceive humans (or animals) into attributing more intellectual or even emotional significance to robots or AI systems than they deserve. Some parts of humanoid and animal robotics are problematic in this regard.",
+   "pid": "p041"
+  },
+  {
+   "kind": "p",
+   "text_en": "Basic constraints of business ethics and law apply to robots, too: product safety and liability, or non-deception in advertisement. It appears that these existing constraints take care of many concerns that are raised. There are cases, however, where human-human interaction has aspects that appear specifically human in ways that can perhaps not be replaced by robots: care, love and sex.",
+   "html_en": "Basic constraints of business ethics and law apply to robots, too: product safety and liability, or non-deception in advertisement. It appears that these existing constraints take care of many concerns that are raised. There are cases, however, where human-human interaction has aspects that appear specifically human in ways that can perhaps not be replaced by robots: care, love and sex.",
+   "pid": "p042"
+  },
+  {
+   "kind": "p",
+   "text_en": "These issues will be more urgent soon, when robots actually leave the industrial “yellow cages”, with the help of AI, and appear in more everyday life circumstances.",
+   "html_en": "These issues will be more urgent soon, when robots actually leave the industrial “yellow cages”, with the help of AI, and appear in more everyday life circumstances.",
+   "pid": "p043"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.5.1 Example (a) Care Robots",
+   "level": 4,
+   "id": "sec-2-5-1",
+   "num": "2.5.1",
+   "title_en": "Example (a) Care Robots"
+  },
+  {
+   "kind": "p",
+   "text_en": "The use of robots in health care for humans is currently at the level of concept studies in real environments, but it may become a usable technology in a few years, and has raised a number of concerns for a dystopian future of de-humanised care (A. Sharkey and Sharkey 2011; Rob Sparrow 2016). Current systems include robots that support human carers/caregivers (e.g. in lifting patients, or transporting material), robots that enable patients to do certain things by themselves (e.g. eat with a robotic arm), but also robots that are given to patients as company and comfort (e.g. the “Paro” robot seal). For an overview, see (van Wynsberghe 2016; Nørskov 2017; Fosch-Villaronga and Albo-Canals 2019), for a survey of users (Draper et al. 2014).",
+   "html_en": "The use of robots in health care for humans is currently at the level of concept studies in real environments, but it may become a usable technology in a few years, and has raised a number of concerns for a dystopian future of de-humanised care (A. Sharkey and Sharkey 2011; Rob Sparrow 2016). Current systems include robots that support human carers/caregivers (e.g. in lifting patients, or transporting material), robots that enable patients to do certain things by themselves (e.g. eat with a robotic arm), but also robots that are given to patients as company and comfort (e.g. the “Paro” robot seal). For an overview, see (van Wynsberghe 2016; Nørskov 2017; Fosch-Villaronga and Albo-Canals 2019), for a survey of users (Draper et al. 2014).",
+   "pid": "p044"
+  },
+  {
+   "kind": "p",
+   "text_en": "One reason why the issue of care has come to the fore is that people have argued that we will need robots in ageing societies. It is not very clear that there really is an issue here, since the discussion mostly focuses on the fear of robots de-humanising care, but the actual and foreseeable robots in care are for classic automation of technical tasks as assistive robots. They are thus “care robots” only in a behavioural sense of performing tasks in care environments, not in the sense that a human “cares” for the patients. If anything, the risk of robots in care is the absence of such intentional care – because less human carers may be needed. Interestingly, caring for something, even a virtual agent, can be good for the carer themselves (Lee et al. 2019). A system that pretends to care would be deceptive and thus problematic – unless the deception is countered by sufficiently large utility gain (Coeckelbergh 2016). Perhaps feeling cared for by a machine, to some extent, can be progress in some cases?",
+   "html_en": "One reason why the issue of care has come to the fore is that people have argued that we will need robots in ageing societies. It is not very clear that there really is an issue here, since the discussion mostly focuses on the fear of robots de-humanising care, but the actual and foreseeable robots in care are for classic automation of technical tasks as assistive robots. They are thus “care robots” only in a behavioural sense of performing tasks in care environments, not in the sense that a human “cares” for the patients. If anything, the risk of robots in care is the <em>absence</em> of such intentional care – because less human carers may be needed. Interestingly, caring for something, even a virtual agent, can be good for the carer themselves (Lee et al. 2019). A system that pretends to care would be deceptive and thus problematic – unless the deception is countered by sufficiently large utility gain (Coeckelbergh 2016). Perhaps feeling cared for by a machine, to some extent, can be progress in some cases?",
+   "pid": "p045"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.5.2 Example (b) Sex Robots",
+   "level": 4,
+   "id": "sec-2-5-2",
+   "num": "2.5.2",
+   "title_en": "Example (b) Sex Robots"
+  },
+  {
+   "kind": "p",
+   "text_en": "It has been argued by several tech optimists that humans will likely be interested in sex and companionship with robots and be comfortable with the idea (Levy 2007). Given the variation of human sexual preferences, including sex toys and sex dolls, this seems very likely: The question is whether such devices should be manufactured and promoted, and whether there should be limits to use in this murky area. It seems to have moved into the mainstream of “robot philosophy” in recent times (Sullins 2012; Danaher and McArthur 2017; N. Sharkey et al. 2017; Bendel 2018; Devlin 2018).",
+   "html_en": "It has been argued by several tech optimists that humans will likely be interested in sex and companionship with robots and be comfortable with the idea (Levy 2007). Given the variation of human sexual preferences, including sex toys and sex dolls, this seems very likely: The question is whether such devices should be manufactured and promoted, and whether there should be limits to use in this murky area. It seems to have moved into the mainstream of “robot philosophy” in recent times (Sullins 2012; Danaher and McArthur 2017; N. Sharkey et al. 2017; Bendel 2018; Devlin 2018).",
+   "pid": "p046"
+  },
+  {
+   "kind": "p",
+   "text_en": "Humans have long had deep emotional attachments to objects, so perhaps companionship or even love with a predictable android is attractive, especially to people who struggle with actual humans, and already prefer dogs, cats, a bird, a computer or a tamagotchi. Some authors (Nyholm, Danaher, and Earp 2022) argue that this can be true friendship, and is thus is a valuable goal. It certainly looks like such friendship might increase overall utility, even if lacking in depth and function (Miyahara and Shimizu 2025). In all this area there is an issue of deception, since a robot cannot (at present) mean what it says, or have feelings for a human. It is well known that humans are prone to attribute feelings and thoughts to entities that behave as if they had sentience, and even to clearly inanimate objects that show no behaviour at all. Also, paying for deception seems to be an elementary part of the traditional sex industry.",
+   "html_en": "Humans have long had deep emotional attachments to objects, so perhaps companionship or even love with a predictable android is attractive, especially to people who struggle with actual humans, and already prefer dogs, cats, a bird, a computer or a <em>tamagotchi</em>. Some authors (Nyholm, Danaher, and Earp 2022) argue that this can be true friendship, and is thus is a valuable goal. It certainly looks like such friendship might increase overall utility, even if lacking in depth and function (Miyahara and Shimizu 2025). In all this area there is an issue of deception, since a robot cannot (at present) mean what it says, or have feelings for a human. It is well known that humans are prone to attribute feelings and thoughts to entities that behave as if they had sentience, and even to clearly inanimate objects that show no behaviour at all. Also, paying for deception seems to be an elementary part of the traditional sex industry.",
+   "pid": "p047"
+  },
+  {
+   "kind": "p",
+   "text_en": "Finally, there are concerns that have often accompanied matters of sex, namely consent (L. Frank and Nyholm 2017), aesthetic concerns, and the worry that humans may be “corrupted” by certain experiences. Old fashioned though this may seem, human behaviour is influenced by experience, and it is likely that pornography or sex robots support the perception of other humans as mere objects of desire, or even as recipients of abuse, and thus ruin a deeper sexual and erotic experience. The “Campaign Against Sex Robots” argues that these devices are a continuation of slavery and prostitution (Richardson 2016).",
+   "html_en": "Finally, there are concerns that have often accompanied matters of sex, namely consent (L. Frank and Nyholm 2017), aesthetic concerns, and the worry that humans may be “corrupted” by certain experiences. Old fashioned though this may seem, human behaviour is influenced by experience, and it is likely that pornography or sex robots support the perception of other humans as mere objects of desire, or even as recipients of abuse, and thus ruin a deeper sexual and erotic experience. The “Campaign Against Sex Robots” argues that these devices are a continuation of slavery and prostitution (Richardson 2016).",
+   "pid": "p048"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.6 Autonomous AI Systems",
+   "level": 3,
+   "id": "AutAISys",
+   "num": "2.6",
+   "title_en": "Autonomous AI Systems"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.6.1 Autonomy Generally",
+   "level": 4,
+   "id": "sec-2-6-1",
+   "num": "2.6.1",
+   "title_en": "Autonomy Generally"
+  },
+  {
+   "kind": "p",
+   "text_en": "There are several notions of autonomy in the discussion of autonomous systems. A stronger notion is involved in philosophical debates where autonomy is the basis for responsibility and personhood (Christman 2018). In this context, responsibility implies autonomy, but not inversely, so there can be systems that have degrees of technical autonomy without raising issues of responsibility. The weaker, more technical, notion of autonomy in robotics is relative and gradual: A system is said to be autonomous with respect to human control to a certain degree (Müller 2012). There is a parallel here to the issues of bias and opacity in AI since autonomy also concerns a power-relation: who is in control, and who is responsible? Higher autonomy implies higher risk, but higher autonomy is also a requirement for higher productivity gains, so the development is towards higher risk. So, the issue is mainly one of risk and misuse, less of serious autonomy.",
+   "html_en": "There are several notions of autonomy in the discussion of autonomous systems. A stronger notion is involved in philosophical debates where autonomy is the basis for responsibility and personhood (Christman 2018). In this context, responsibility implies autonomy, but not inversely, so there can be systems that have degrees of technical autonomy without raising issues of responsibility. The weaker, more technical, notion of autonomy in robotics is relative and gradual: A system is said to be autonomous with respect to human control to a certain degree (Müller 2012). There is a parallel here to the issues of bias and opacity in AI since autonomy also concerns a power-relation: who is in control, and who is responsible? Higher autonomy implies higher risk, but higher autonomy is also a requirement for higher productivity gains, so the development is towards higher risk. So, the issue is mainly one of risk and misuse, less of serious autonomy.",
+   "pid": "p049"
+  },
+  {
+   "kind": "p",
+   "text_en": "In most jurisdictions, there is a sophisticated system of civil and criminal law to resolve issues of liability. Technical standards, e.g. for the safe use of machinery in medical environments, will likely need to be adjusted. There is already a field of “verifiable AI” for such safety-critical systems, and for “security applications”. Technical standards are an important part of such regulation and self-regulation.",
+   "html_en": "In most jurisdictions, there is a sophisticated system of civil and criminal law to resolve issues of liability. Technical standards, e.g. for the safe use of machinery in medical environments, will likely need to be adjusted. There is already a field of “verifiable AI” for such safety-critical systems, and for “security applications”. Technical standards are an important part of such regulation and self-regulation.",
+   "pid": "p050"
+  },
+  {
+   "kind": "p",
+   "text_en": "Among the many autonomous systems on land, on water, under water, in the air or in space, we discuss two samples: autonomous vehicles and autonomous weapons. There is now a development towards AI personal assistants, robotical or not. It seems plausible that these assistants will face significant hurdles, since the ethical and legal responsibility for the actions of the assistant would have to be clarified (Milano and Nyholm 2024).",
+   "html_en": "Among the many autonomous systems on land, on water, under water, in the air or in space, we discuss two samples: autonomous vehicles and autonomous weapons. There is now a development towards AI personal assistants, robotical or not. It seems plausible that these assistants will face significant hurdles, since the ethical and legal responsibility for the actions of the assistant would have to be clarified (Milano and Nyholm 2024).",
+   "pid": "p051"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.6.2 Example (a) Autonomous Vehicles",
+   "level": 4,
+   "id": "sec-2-6-2",
+   "num": "2.6.2",
+   "title_en": "Example (a) Autonomous Vehicles"
+  },
+  {
+   "kind": "p",
+   "text_en": "Autonomous vehicles hold the promise to reduce the very significant damage that human driving currently causes – with approximately 1 million humans being killed per year, many more injured, the environment polluted, earth sealed with concrete and tarmac, cities full of unused (parked) cars, etc. However, there seem to be questions on how autonomous vehicles should behave, and how responsibility and risk should be distributed in the complicated system the vehicles operates in. (There is also significant disagreement over how long the development of fully autonomous, or “level 5” cars (SAE 2015) will actually take, or whether it has happened already.)",
+   "html_en": "Autonomous vehicles hold the promise to reduce the very significant damage that human driving currently causes – with approximately 1 million humans being killed per year, many more injured, the environment polluted, earth sealed with concrete and tarmac, cities full of unused (parked) cars, etc. However, there seem to be questions on how autonomous vehicles should behave, and how responsibility and risk should be distributed in the complicated system the vehicles operates in. (There is also significant disagreement over how long the development of fully autonomous, or “level 5” cars (SAE 2015) will actually take, or whether it has happened already.)",
+   "pid": "p052"
+  },
+  {
+   "kind": "p",
+   "text_en": "There is significant discussion of “trolley problems” in this context. In the classic “trolley problems” (Thomson 1976), SEP (Woollard and Howard-Snyder 2021) various dilemmas are presented. The simplest version is that of a trolley train on a track that is heading towards five people and will kill them, unless the train is diverted onto a side track, but on that track there is one person, who will be killed if the train takes that side track. The example goes back to a remark in (Foot 1967, 6), who discusses a number of dilemma cases where tolerated differ from intended consequences of an action. “Trolley problems” are not supposed to describe actual ethical problems or to be solved with a “right” choice. Rather, they are thought-experiments where choice is artificially constrained to a small finite number of distinct one-off options and where the agent has perfect knowledge. These problems are used as a theoretical tool to investigate ethical intuitions and theories (Kamm and Rakowski 2016). This type of problem has reminded many of the problems encountered in actual driving, and in autonomous driving (Lin 2015). It is doubtful, however, that an actual driver or autonomous car will ever have to solve trolley problems and it is debated whether this issues has relevance to the ethics of autonomous vehicles (Awad et al. 2018; Paulo 2023).",
+   "html_en": "There is significant discussion of “trolley problems” in this context. In the classic “trolley problems” (Thomson 1976), SEP (Woollard and Howard-Snyder 2021) various dilemmas are presented. The simplest version is that of a trolley train on a track that is heading towards five people and will kill them, unless the train is diverted onto a side track, but on that track there is one person, who will be killed if the train takes that side track. The example goes back to a remark in (Foot 1967, 6), who discusses a number of dilemma cases where <em>tolerated</em> differ from <em>intended</em> consequences of an action. “Trolley problems” are not supposed to describe actual ethical problems or to be solved with a “right” choice. Rather, they are thought-experiments where choice is artificially constrained to a small finite number of distinct one-off options and where the agent has perfect knowledge. These problems are used as a theoretical tool to investigate ethical intuitions and theories (Kamm and Rakowski 2016). This type of problem has reminded many of the problems encountered in actual driving, and in autonomous driving (Lin 2015). It is doubtful, however, that an actual driver or autonomous car will ever have to solve trolley problems and it is debated whether this issues has relevance to the ethics of autonomous vehicles (Awad et al. 2018; Paulo 2023).",
+   "pid": "p053"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.6.3 Example (b) Autonomous Weapons",
+   "level": 4,
+   "id": "sec-2-6-3",
+   "num": "2.6.3",
+   "title_en": "Example (b) Autonomous Weapons"
+  },
+  {
+   "kind": "p",
+   "text_en": "The notion of automated weapons is fairly old: “For example, instead of fielding simple guided missiles or remotely piloted vehicles, we might launch completely autonomous land, sea, and air vehicles capable of complex, far-ranging reconnaissance and attack missions.” (DARPA 1983, 1). This proposal was ridiculed as “fantasy” at the time (Dreyfus, Dreyfus, and Athanasiou 1986, ix), but it is now a reality, at least for more easily identifiable targets (missiles, vehicles, planes, ships, buildings, etc.). The main arguments against (lethal) autonomous weapon systems (AWS or LAWS), are that they support extrajudicial killings, take responsibility away from humans, and make wars or killings more likely – for a detailed list of issues see (Lin, Bekey, and Abney 2008, 73–86; Taddeo 2024).",
+   "html_en": "The notion of automated weapons is fairly old: “For example, instead of fielding simple guided missiles or remotely piloted vehicles, we might launch completely autonomous land, sea, and air vehicles capable of complex, far-ranging reconnaissance and attack missions.” (DARPA 1983, 1). This proposal was ridiculed as “fantasy” at the time (Dreyfus, Dreyfus, and Athanasiou 1986, ix), but it is now a reality, at least for more easily identifiable targets (missiles, vehicles, planes, ships, buildings, etc.). The main arguments against (lethal) autonomous weapon systems (AWS or LAWS), are that they support extrajudicial killings, take responsibility away from humans, and make wars or killings more likely – for a detailed list of issues see (Lin, Bekey, and Abney 2008, 73–86; Taddeo 2024).",
+   "pid": "p054"
+  },
+  {
+   "kind": "p",
+   "text_en": "Would autonomous weapon systems make wars more likely? It appears that increasing the availability of autonomous weapons systems and reducing the probability of being held accountable would increase the probability of their use. However, the crucial asymmetry of impunity already exists in conventional wars with distance weapons (e.g. remote controlled). These are the kinds of cases brought forward by the Campaign to Stop Killer Robots and other activist groups. Some seem to be equivalent to saying that autonomous weapons are indeed weapons …, and weapons kill, but we still make them in gigantic numbers. On the matter of accountability, autonomous weapons might make identification and prosecution of the responsible agents more difficult – but this is not clear, given the digital records that one can keep, at least in a conventional war. The difficulty of allocating punishment is sometimes called the “retribution gap” (Danaher 2016a). The development in the last 5 years seems towards the acceptance of AI in warfare, but many ethical issues remain, and – officially at least – there are still always “humans in the loop”, even though the use of AI, e.g. for target identification, reduces human input, especially when speed is crucial. In regulatory terms, a total ban now seems off the cards.",
+   "html_en": "Would autonomous weapon systems make wars more likely? It appears that increasing the availability of autonomous weapons systems and reducing the probability of being held accountable would increase the probability of their use. However, the crucial asymmetry of impunity already exists in conventional wars with distance weapons (e.g. remote controlled). These are the kinds of cases brought forward by the <em>Campaign to Stop Killer Robots</em> and other activist groups. Some seem to be equivalent to saying that autonomous weapons are indeed weapons …, and weapons kill, but we still make them in gigantic numbers. On the matter of accountability, autonomous weapons might make identification and prosecution of the responsible agents more difficult – but this is not clear, given the digital records that one can keep, at least in a conventional war. The difficulty of allocating punishment is sometimes called the “retribution gap” (Danaher 2016a). The development in the last 5 years seems towards the acceptance of AI in warfare, but many ethical issues remain, and – officially at least – there are still always “humans in the loop”, even though the use of AI, e.g. for target identification, reduces human input, especially when speed is crucial. In regulatory terms, a total ban now seems off the cards.",
+   "pid": "p055"
+  },
+  {
+   "kind": "p",
+   "text_en": "Another question seems to be whether using autonomous weapons in war would make wars worse, or perhaps make wars less bad? If robots reduce casualties, war crimes and crimes in war, the answer may well be positive and has been used as an argument in favour of these weapons (Arkin 2009; Müller 2016a) but also as an argument against (Amoroso and Tamburrini 2018). Arguably the main threat is not the use of such weapons in conventional warfare, but in asymmetric conflicts or by non-state agents, including criminals.",
+   "html_en": "Another question seems to be whether using autonomous weapons in war would make wars worse, or perhaps make wars less bad? If robots reduce casualties, war crimes and crimes in war, the answer may well be positive and has been used as an argument in favour of these weapons (Arkin 2009; Müller 2016a) but also as an argument against (Amoroso and Tamburrini 2018). Arguably the main threat is not the use of such weapons in conventional warfare, but in asymmetric conflicts or by non-state agents, including criminals.",
+   "pid": "p056"
+  },
+  {
+   "kind": "p",
+   "text_en": "It has also been said that autonomous weapons cannot conform to International Humanitarian Law, which requires observance of the principles of distinction (between combatants and civilians), proportionality (of force) and military necessity (of force) in military conflict (A. Sharkey 2019). This now seems more of a technical issue, such that weapons must be constructed and used such that they do not violate Humanitarian Law. There are strong indications that human rights are a useful framework for AI ethics, but this has not been much used, with some exceptions (Smuha 2021a) – inversely, it is widely recognised in human rights research that AI has significant impact on the field. Sometimes the concept of human dignity has been raised in this context (A. Sharkey 2019; cf. Rueda et al. 2025).",
+   "html_en": "It has also been said that autonomous weapons cannot conform to International Humanitarian Law, which requires observance of the principles of distinction (between combatants and civilians), proportionality (of force) and military necessity (of force) in military conflict (A. Sharkey 2019). This now seems more of a technical issue, such that weapons must be constructed and used such that they do not violate Humanitarian Law. There are strong indications that human rights are a useful framework for AI ethics, but this has not been much used, with some exceptions (Smuha 2021a) – inversely, it is widely recognised in human rights research that AI has significant impact on the field. Sometimes the concept of human dignity has been raised in this context (A. Sharkey 2019; cf. Rueda et al. 2025).",
+   "pid": "p057"
+  }
+ ],
+ "stats": {
+  "paragraphs": 28,
+  "headings": 11
+ }
+}

@@ -1,0 +1,1904 @@
+{
+ "shard": "d",
+ "blocks": [
+  {
+   "kind": "heading",
+   "text_en": "2.9 Society, Politics, Economics",
+   "level": 3,
+   "id": "SocPolEco",
+   "num": "2.9",
+   "title_en": "Society, Politics, Economics",
+   "title_zh": "社会、政治与经济"
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.9.1 Philosophy of Technology",
+   "level": 4,
+   "id": "sec-2-9-1",
+   "num": "2.9.1",
+   "title_en": "Philosophy of Technology",
+   "title_zh": "技术哲学"
+  },
+  {
+   "kind": "p",
+   "text_en": "There is a classical tradition of “philosophy of technology”, mostly in Europe, and often referring to M. Heidegger, G. Anders or even K. Marx, which deals with the general relevance of technology for the human condition (Grunwald and Hillerbrand 2021; Gutmann, Wiegerling, and Rathgeber 2024). This tradition stems from classical anthropology of the human as toolmaker (Prometheus), and from the philosophical and societal response to the industrial revolution and is thus relevant for the understanding of present-day developments in AI and robotics. While it has much to say about the similarities with earlier technologies, e.g. the increased “speed” of things (Rosa 2010, 2020), it is often struggling to articulate what is different about these new technologies, not to mention what is positive (Han 2022). In this tradition there is also a form of technology ethics, e.g. under the headings of “responsible research and innovation” (Burget, Bardone, and Pedaste 2017), “technology assessment” (Grunwald 2018) or “ethics by design” (Brey and Dainow 2024), often involving the wider socio-technical context (Koudina and Van de Poel 2024; Wang and Blok 2025).",
+   "html_en": "There is a classical tradition of “philosophy of technology”, mostly in Europe, and often referring to M. Heidegger, G. Anders or even K. Marx, which deals with the general relevance of technology for the human condition (Grunwald and Hillerbrand 2021; Gutmann, Wiegerling, and Rathgeber 2024). This tradition stems from classical anthropology of the human as toolmaker (Prometheus), and from the philosophical and societal response to the industrial revolution and is thus relevant for the understanding of present-day developments in AI and robotics. While it has much to say about the <em>similarities</em> with earlier technologies, e.g. the increased “speed” of things (Rosa 2010, 2020), it is often struggling to articulate what is <em>different</em> about these new technologies, not to mention what is <em>positive</em> (Han 2022). In this tradition there is also a form of technology ethics, e.g. under the headings of “responsible research and innovation” (Burget, Bardone, and Pedaste 2017), “technology assessment” (Grunwald 2018) or “ethics by design” (Brey and Dainow 2024), often involving the wider socio-technical context (Koudina and Van de Poel 2024; Wang and Blok 2025).",
+   "pid": "p088",
+   "zh": "存在着一种经典的“技术哲学”传统，主要在欧洲，常常提及海德格尔（M. Heidegger）、G. Anders，甚至马克思（K. Marx），它探讨技术对于人类境况（human condition）的普遍意义（Grunwald and Hillerbrand 2021; Gutmann, Wiegerling, and Rathgeber 2024）。这一传统源于把人视为工具制造者（普罗米修斯）的古典人类学，也源于对工业革命的哲学与社会回应，因而与理解当今人工智能与机器人学的发展相关。尽管它对与早期技术的**相似之处**有诸多论述，例如事物不断加快的“速度”（Rosa 2010, 2020），但它往往难以说清这些新技术究竟**不同**在哪里，更不必说其**积极**之处（Han 2022）。在这一传统中还有一种技术伦理的形态，例如以“负责任的研究与创新”（Burget, Bardone, and Pedaste 2017）、“技术评估”（Grunwald 2018）或“设计中的伦理”（Brey and Dainow 2024）为题，往往涉及更广阔的社会—技术语境（Koudina and Van de Poel 2024; Wang and Blok 2025）。",
+   "logic": [
+    "指出欧洲存在以海德格尔、安德斯、马克思为代表的经典技术哲学传统，界定其研究对象是技术对人类境况的普遍意义。",
+    "追溯该传统的两大思想来源（古典人类学中的工具制造者形象、对工业革命的哲学与社会回应），说明其对理解今日人工智能与机器人发展的相关性。",
+    "指出该传统的局限：擅长说明新旧技术的相似，却难以说清新技术的差异与正面价值。",
+    "补充该传统下的技术伦理形态，列举“负责任的研究与创新”“技术评估”“设计中的伦理”三个具体进路。"
+   ],
+   "terms": [
+    {
+     "en": "philosophy of technology",
+     "zh": "技术哲学",
+     "def": "本文指主要在欧洲、探讨技术对人类境况之普遍意义的经典哲学传统，常追溯至海德格尔、安德斯与马克思。"
+    },
+    {
+     "en": "human condition",
+     "zh": "人类境况",
+     "def": "哲学术语，指人类生存的根本处境与普遍状况，是技术哲学反思技术意义的出发点。"
+    }
+   ],
+   "background": [
+    {
+     "title": "马丁·海德格尔（Martin Heidegger）",
+     "body": "20 世纪德国哲学家，其后期技术之思把技术理解为一种解蔽方式，是经典技术哲学传统的重要源头。"
+    },
+    {
+     "title": "冈瑟·安德斯（Günther Anders）",
+     "body": "20 世纪德裔奥地利哲学家，著有《人类的过时》，对技术时代持批判立场。"
+    },
+    {
+     "title": "卡尔·马克思（Karl Marx）",
+     "body": "19 世纪德国哲学家、经济学家，其对工业资本主义的社会批判为技术哲学传统提供了思想资源。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "stem from",
+     "pos": "phr.",
+     "zh": "源于；追溯于",
+     "ex": "This tradition stems from classical anthropology"
+    },
+    {
+     "en": "articulate",
+     "pos": "v.",
+     "zh": "清晰表达；阐明",
+     "ex": "it is often struggling to articulate what is different"
+    },
+    {
+     "en": "not to mention",
+     "pos": "phr.",
+     "zh": "更不必说",
+     "ex": "not to mention what is positive"
+    },
+    {
+     "en": "under the headings of",
+     "pos": "phr.",
+     "zh": "以……为题；冠以……名义",
+     "ex": "under the headings of “responsible research and innovation”"
+    },
+    {
+     "en": "present-day",
+     "pos": "adj.",
+     "zh": "当今的",
+     "ex": "present-day developments in AI and robotics"
+    },
+    {
+     "en": "relevance",
+     "pos": "n.",
+     "zh": "相关性",
+     "ex": "the general relevance of technology for the human condition"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "A more political angle of technology is discussed in “Science and Technology Studies” (STS). As books like The Ethics of Invention (Jasanoff 2016) show, concerns in STS are often quite similar to those in ethics (Jacobs et al. 2019). Generally, the philosophy of AI is probably outgrowing the general philosophy and ethics of technology (SEP Article Franssen, Lokhorst, and van de Poel 2024), but it certainly remains the case that it is part of that larger picture, and has much to learn from the experience with technologies that were once new and revolutionary, such as water power, the steam engine, trains, electricity, cars, the personal computer, or the Internet. It may well be that the ever “smarter” environment we live in (Halpern and Mitchell 2023), and specifically AI, is both a curse (Vallor 2024) and a blessing for humanity. The human condition and the meaning of our lives are fundamentally affected by our socio-technical conditions, and AI will have massive impact on these conditions, so it looks like there should really be an analogous effort in academia and public discourse to understand the effects we want and those that we can achieve from this technology.",
+   "html_en": "A more political angle of technology is discussed in “Science and Technology Studies” (STS). As books like <em>The Ethics of Invention</em> (Jasanoff 2016) show, concerns in STS are often quite similar to those in ethics (Jacobs et al. 2019). Generally, the philosophy of AI is probably outgrowing the general philosophy and ethics of technology (SEP Article Franssen, Lokhorst, and van de Poel 2024), but it certainly remains the case that it is part of that larger picture, and has much to learn from the experience with technologies that were once new and revolutionary, such as water power, the steam engine, trains, electricity, cars, the personal computer, or the Internet. It may well be that the ever “smarter” environment we live in (Halpern and Mitchell 2023), and specifically AI, is both a curse (Vallor 2024) and a blessing for humanity. The human condition and the meaning of our lives are fundamentally affected by our socio-technical conditions, and AI will have massive impact on these conditions, so it looks like there should really be an analogous effort in academia and public discourse to understand the effects we want and those that we can achieve from this technology.",
+   "pid": "p089",
+   "zh": "对技术的更具政治性的探讨见于“科学技术研究”（Science and Technology Studies，STS）。正如《发明的伦理》（The Ethics of Invention）（Jasanoff 2016）这类著作所示，STS 关注的问题往往与伦理学关注的问题相当接近（Jacobs et al. 2019）。总体而言，人工智能哲学或许正在超出一般的技术哲学与技术伦理学的范围（SEP 条目 Franssen, Lokhorst, and van de Poel 2024），但它无疑仍是这幅更大图景的一部分，并且可以从那些曾经新颖而具革命性的技术经验中学到很多，例如水力、蒸汽机、火车、电力、汽车、个人电脑或互联网。我们所处的日益“智能”的环境（Halpern and Mitchell 2023），尤其是人工智能，对人类而言很可能既是诅咒（Vallor 2024）又是福祉。人类境况与我们生命的意义从根本上受制于我们的社会—技术条件，而人工智能将对这些条件产生巨大影响，因此学术界与公共话语中确实应当付出类似的努力，以理解我们希望从这项技术获得的效应，以及我们能够实际实现的效应。",
+   "logic": [
+    "引入科学技术研究（STS）这一更具政治性的研究进路，指出其问题关切与伦理学高度重合。",
+    "承认人工智能哲学虽在超出一般技术哲学的框架，但仍是其一部分，应从历史上革命性技术的经验中学习。",
+    "以“诅咒与福祉”并陈的辩证语气，提出人工智能对人类境况与生命意义的根本影响。",
+    "结论性呼吁：学界与公共话语应投入类似努力，区分并理解人工智能所产生的、我们所欲求的与所能实现的效应。"
+   ],
+   "terms": [
+    {
+     "en": "Science and Technology Studies (STS)",
+     "zh": "科学技术研究",
+     "def": "探讨技术之政治性的跨学科研究领域，本文指出其伦理关切与伦理学相近。"
+    },
+    {
+     "en": "human condition",
+     "zh": "人类境况",
+     "def": "本文再次出现，指人类生存的根本处境，受社会—技术条件根本塑造。"
+    }
+   ],
+   "background": [
+    {
+     "title": "《发明的伦理》（The Ethics of Invention）",
+     "body": "Sheila Jasanoff 于 2016 年出版的著作，用以说明 STS 的问题关切与伦理学高度相近。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "outgrow",
+     "pos": "v.",
+     "zh": "发展得超出；超出……的范围",
+     "ex": "the philosophy of AI is probably outgrowing the general philosophy"
+    },
+    {
+     "en": "it remains the case that",
+     "pos": "phr.",
+     "zh": "情况依然是",
+     "ex": "it certainly remains the case that it is"
+    },
+    {
+     "en": "curse",
+     "pos": "n.",
+     "zh": "诅咒；祸害",
+     "ex": "is both a curse (Vallor 2024) and a blessing"
+    },
+    {
+     "en": "blessing",
+     "pos": "n.",
+     "zh": "福祉；幸事",
+     "ex": "a blessing for humanity"
+    },
+    {
+     "en": "analogous",
+     "pos": "adj.",
+     "zh": "类似的；可类比的",
+     "ex": "an analogous effort in academia and public discourse"
+    },
+    {
+     "en": "fundamentally",
+     "pos": "adv.",
+     "zh": "根本上",
+     "ex": "fundamentally affected by our socio-technical conditions"
+    }
+   ]
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.9.2 Politics",
+   "level": 4,
+   "id": "sec-2-9-2",
+   "num": "2.9.2",
+   "title_en": "Politics",
+   "title_zh": "政治"
+  },
+  {
+   "kind": "p",
+   "text_en": "Traditionally, the ethics of AI had an unhealthy obsession with individual choice, rather than with social and political choice and conditions. There is now a focus on specifically political issues with AI (Crawford 2021), especially race, gender, minorities, feminism (Gebru 2020; Browne et al. 2023; Toupin 2024), environmental impact (O’Brolcháin and Grau Ruiz 2020; van Wynsberghe 2021), global justice (Lundgren et al. 2024) and the threat to democratic process, such as information and trust (Coeckelbergh 2024) – a survey is in (Coeckelbergh 2022a).",
+   "html_en": "Traditionally, the ethics of AI had an unhealthy obsession with individual choice, rather than with social and political choice and conditions. There is now a focus on specifically political issues with AI (Crawford 2021), especially race, gender, minorities, feminism (Gebru 2020; Browne et al. 2023; Toupin 2024), environmental impact (O’Brolcháin and Grau Ruiz 2020; van Wynsberghe 2021), global justice (Lundgren et al. 2024) and the threat to democratic process, such as information and trust (Coeckelbergh 2024) – a survey is in (Coeckelbergh 2022a).",
+   "pid": "p090",
+   "zh": "传统上，人工智能伦理学对个人选择有着一种不健康的执着，而不是关注社会的与政治的选择及其条件。如今，学界开始聚焦于人工智能特有的政治问题（Crawford 2021），尤其是种族、性别、少数群体、女性主义（Gebru 2020; Browne et al. 2023; Toupin 2024），环境影响（O’Brolcháin and Grau Ruiz 2020; van Wynsberghe 2021），全球正义（global justice）（Lundgren et al. 2024），以及对民主程序（democratic process）的威胁，例如信息与信任方面的威胁（Coeckelbergh 2024）——综述见（Coeckelbergh 2022a）。",
+   "logic": [
+    "指出传统人工智能伦理学的偏差：过度执着于个人选择，忽视社会与政治条件。",
+    "列举当前转向政治议题的具体维度：种族、性别、少数群体、女性主义、环境影响、全球正义以及对民主程序的威胁。"
+   ],
+   "terms": [
+    {
+     "en": "global justice",
+     "zh": "全球正义",
+     "def": "政治哲学概念，指全球范围内财富与权利的公平分配，本文列为人工智能政治议题之一。"
+    },
+    {
+     "en": "democratic process",
+     "zh": "民主程序",
+     "def": "本文指民主决策赖以运行的信息、信任等制度条件，被人工智能发展所威胁。"
+    }
+   ],
+   "background": [
+    {
+     "title": "凯茜·克劳利（Kate Crawford）",
+     "body": "科技学者，2021 年出版《Atlas of AI》，从政治经济与权力维度批判人工智能，代表了对人工智能的政治性研究进路。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "obsession",
+     "pos": "n.",
+     "zh": "执着；痴迷",
+     "ex": "an unhealthy obsession with individual choice"
+    },
+    {
+     "en": "focus on",
+     "pos": "phr.",
+     "zh": "聚焦于",
+     "ex": "a focus on specifically political issues with AI"
+    },
+    {
+     "en": "threat to",
+     "pos": "phr.",
+     "zh": "对……的威胁",
+     "ex": "the threat to democratic process"
+    },
+    {
+     "en": "survey",
+     "pos": "n.",
+     "zh": "综述；概览",
+     "ex": "a survey is in (Coeckelbergh 2022a)"
+    },
+    {
+     "en": "unhealthy",
+     "pos": "adj.",
+     "zh": "不健康的",
+     "ex": "an unhealthy obsession with individual choice"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "It appears that information technology had both impacts towards more fairness (universal access to information, e.g. scientific publications) but also towards less fairness (concentration of wealth). The larger the impact of AI and robotics will be, the more urgent these concerns will become. Also, they will seem larger to those that are more negatively affected – all of this would have sounded familiar to analysts like Karl Marx (Marx 1867/2024) and has begun to affect political theory (Risse 2023).",
+   "html_en": "It appears that information technology had both impacts towards more fairness (universal access to information, e.g. scientific publications) but also towards less fairness (concentration of wealth). The larger the impact of AI and robotics will be, the more urgent these concerns will become. Also, they will seem larger to those that are more negatively affected – all of this would have sounded familiar to analysts like Karl Marx (Marx 1867/2024) and has begun to affect political theory (Risse 2023).",
+   "pid": "p091",
+   "zh": "看来信息技术既产生了趋向更公平的效应（信息的普遍获取，例如科学出版物），也产生了趋向更不公平的效应（财富的集中）。人工智能与机器人学的影响越大，这些关切就越紧迫。而且，对那些受负面影响更大的人来说，这些问题会显得更为严重——所有这一切，对卡尔·马克思（Karl Marx）这样的分析者来说会是耳熟能详的（Marx 1867/2024），并且已经开始影响政治理论（Risse 2023）。",
+   "logic": [
+    "辩证指出信息技术对公平的双重效应：促进信息普遍获取，同时加剧财富集中。",
+    "以“影响越大、关切越紧迫”的递进，强调人工智能影响放大会放大这一张力。",
+    "援引马克思，指出这种负面分配效应的分析并不新颖，并指出其已开始反哺政治理论。"
+   ],
+   "terms": [
+    {
+     "en": "fairness",
+     "zh": "公平",
+     "def": "本文指信息技术影响下社会分配与机会的公平程度；其效应双向：普及信息与集中财富并存。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "impact towards",
+     "pos": "phr.",
+     "zh": "趋向于……的影响",
+     "ex": "both impacts towards more fairness"
+    },
+    {
+     "en": "concentration of wealth",
+     "pos": "phr.",
+     "zh": "财富集中",
+     "ex": "towards less fairness (concentration of wealth)"
+    },
+    {
+     "en": "the more...the more",
+     "pos": "phr.",
+     "zh": "越……越……",
+     "ex": "The larger the impact of AI and robotics will be"
+    },
+    {
+     "en": "negatively affected",
+     "pos": "phr.",
+     "zh": "受负面影响的",
+     "ex": "those that are more negatively affected"
+    },
+    {
+     "en": "sound familiar",
+     "pos": "phr.",
+     "zh": "听起来耳熟",
+     "ex": "would have sounded familiar to analysts like Karl Marx"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "One of the fundamentals of democratic societies is the free spread of information, since a free political decision is only as good as the information it is based on. However, with the help of AI, fake news is automatically generated and spread, sometimes tailored to recipients – it has become cheaper than employing humans, and it spreads “farther, faster, deeper, and more broadly than the truth in all categories of information.” (Vosoughi, Roy, and Aral 2018). The control over information and narratives is often in the hand of oligarchs and monopolies, e.g. search engines are subject to essentially one company; see the recent SEP article (Tavani and Zimmer 2025). News distribution channels are also increasingly AI steered and generated.",
+   "html_en": "One of the fundamentals of democratic societies is the free spread of information, since a free political decision is only as good as the information it is based on. However, with the help of AI, fake news is automatically generated and spread, sometimes tailored to recipients – it has become cheaper than employing humans, and it spreads “farther, faster, deeper, and more broadly than the truth in all categories of information.” (Vosoughi, Roy, and Aral 2018). The control over information and narratives is often in the hand of oligarchs and monopolies, e.g. search engines are subject to essentially one company; see the recent SEP article (Tavani and Zimmer 2025). News distribution channels are also increasingly AI steered and generated.",
+   "pid": "p092",
+   "zh": "民主社会的基石之一是信息的自由传播，因为一项自由的政治决策，其好坏不会超出它所依据的信息的好坏。然而，在人工智能的帮助下，假新闻（fake news）被自动生成并传播，有时还针对接收者量身定制——这比雇人来做更便宜，而且它“在所有信息类别中，都比真相传播得**更远、更快、更深、更广**”（Vosoughi, Roy, and Aral 2018）。对信息与叙事（narrative）的掌控往往握在寡头与垄断者手中，例如搜索引擎实质上受制于一家公司；参见新近的 SEP 条目（Tavani and Zimmer 2025）。新闻分发渠道也日益由人工智能引导和生成。",
+   "logic": [
+    "先确立民主社会的前提：政治决策的质量取决于其依据的信息质量。",
+    "指出人工智能使假新闻自动生成、定向传播且成本更低，并以实证研究引文说明假新闻传播胜于真相。",
+    "进一步指出信息与叙事被寡头与垄断者掌控（搜索引擎一例），且新闻分发渠道日益人工智能化。"
+   ],
+   "terms": [
+    {
+     "en": "fake news",
+     "zh": "假新闻",
+     "def": "本文指由人工智能自动生成、针对接收者定向传播的虚假信息，成本低于雇人传播。"
+    },
+    {
+     "en": "narrative",
+     "zh": "叙事",
+     "def": "本文指塑造公众认知的信息框架与话语，其控制权常落入寡头与垄断者手中。"
+    }
+   ],
+   "background": [
+    {
+     "title": "Vosoughi、Roy 与 Aral（2018）",
+     "body": "发表于《Science》的著名传播研究，分析 Twitter 上逾十万条谣言的传播，得出假新闻比真相传播得更远、更快、更深、更广的结论。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "spread",
+     "pos": "n.",
+     "zh": "传播",
+     "ex": "the free spread of information"
+    },
+    {
+     "en": "tailor to",
+     "pos": "phr.",
+     "zh": "为……量身定制",
+     "ex": "sometimes tailored to recipients"
+    },
+    {
+     "en": "oligarch",
+     "pos": "n.",
+     "zh": "寡头",
+     "ex": "in the hand of oligarchs and monopolies"
+    },
+    {
+     "en": "be subject to",
+     "pos": "phr.",
+     "zh": "受制于",
+     "ex": "search engines are subject to essentially one company"
+    },
+    {
+     "en": "steered",
+     "pos": "adj.",
+     "zh": "被引导的",
+     "ex": "increasingly AI steered and generated"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "AI generated social media are now the prime locations for political propaganda. This influence can be used to steer voting behaviour, as in the Facebook-Cambridge Analytica “scandal” (Woolley and Howard 2017; Bradshaw, Neudert, and Howard 2019) and – if successful – it may harm the autonomy of individuals (Susser, Roessler, and Nissenbaum 2019). Some authors (Sanders and Schneier 2024) stress that we should not make the same mistakes with AI that we made with social media, though the severity of the issue is disputed (Altay, Berriche, and Acerbi 2023). The main similarity is that problematic surveillance and manipulation can be automated, and thus applied to masses of people, while being personalised. AI can help individuals and societies make better choices – but not all agents in our information space want that to happen.",
+   "html_en": "AI generated social media are now the prime locations for political propaganda. This influence can be used to steer voting behaviour, as in the Facebook-Cambridge Analytica “scandal” (Woolley and Howard 2017; Bradshaw, Neudert, and Howard 2019) and – if successful – it may harm the autonomy of individuals (Susser, Roessler, and Nissenbaum 2019). Some authors (Sanders and Schneier 2024) stress that we should not make the same mistakes with AI that we made with social media, though the severity of the issue is disputed (Altay, Berriche, and Acerbi 2023). The main similarity is that problematic surveillance and manipulation can be automated, and thus applied to masses of people, while being personalised. AI can help individuals and societies make better choices – but not all agents in our information space want that to happen.",
+   "pid": "p093",
+   "zh": "人工智能生成的社交媒体如今已成为政治宣传的首要场所。这种影响可以被用来操纵投票行为，正如脸书—剑桥分析（Facebook-Cambridge Analytica）“丑闻”所示（Woolley and Howard 2017; Bradshaw, Neudert, and Howard 2019）——而如果得逞，它可能损害个人的自主性（autonomy）（Susser, Roessler, and Nissenbaum 2019）。一些作者（Sanders and Schneier 2024）强调，我们不应在人工智能上重蹈在社交媒体上所犯的错误，尽管这一问题的严重程度存在争议（Altay, Berriche, and Acerbi 2023）。主要的相似之处在于，成问题的监控（surveillance）与操纵（manipulation）可以被自动化，从而在针对大众施加影响的同时实现个性化。人工智能可以帮助个人与社会做出更好的选择——但我们信息空间中的并非所有能动者（agent）都希望如此。",
+   "logic": [
+    "指出人工智能生成的社交媒体已成为政治宣传的主要场所。",
+    "以剑桥分析丑闻为案例，说明这种影响可操纵投票行为、损害个人自主性。",
+    "引述“勿在人工智能上重蹈覆辙”的主张及其争议，指出问题严重性并无共识。",
+    "提炼人工智能与旧社交媒体的共同机理：监控与操纵可自动化、规模化并个性化；末句点出信息空间中存在不希望人工智能造福人的能动者。"
+   ],
+   "terms": [
+    {
+     "en": "autonomy",
+     "zh": "自主性",
+     "def": "见术语表：政治宣传对个体投票行为的操纵若得逞，将损害个体自主决策的能力。"
+    },
+    {
+     "en": "surveillance",
+     "zh": "监控",
+     "def": "见术语表：与操纵一道可被自动化，在个性化的同时施加于大众。"
+    },
+    {
+     "en": "manipulation",
+     "zh": "操纵",
+     "def": "见术语表：借助社交媒体定向影响投票行为，损害个体自主性。"
+    }
+   ],
+   "background": [
+    {
+     "title": "脸书—剑桥分析丑闻（Facebook–Cambridge Analytica scandal）",
+     "body": "2018 年曝光的政治数据丑闻：剑桥分析公司未经授权获取数千万脸书用户数据，用于政治定向宣传，是人工智能化政治操纵的标志性案例。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "prime location",
+     "pos": "phr.",
+     "zh": "首要场所",
+     "ex": "the prime locations for political propaganda"
+    },
+    {
+     "en": "steer voting behaviour",
+     "pos": "phr.",
+     "zh": "操纵投票行为",
+     "ex": "used to steer voting behaviour"
+    },
+    {
+     "en": "severity",
+     "pos": "n.",
+     "zh": "严重程度",
+     "ex": "the severity of the issue is disputed"
+    },
+    {
+     "en": "masses of people",
+     "pos": "phr.",
+     "zh": "大众；人群",
+     "ex": "applied to masses of people"
+    },
+    {
+     "en": "personalised",
+     "pos": "adj.",
+     "zh": "个性化的",
+     "ex": "while being personalised"
+    },
+    {
+     "en": "information space",
+     "pos": "phr.",
+     "zh": "信息空间",
+     "ex": "all agents in our information space"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "These developments not only support deception and manipulation, but also the era of “bullshit” (Frankfurt 2005), or post-truth, where anyone can have their own “alternative facts”, and thus any information is as good as any other (this is sometimes confused with “free speech”). Characteristically, the main aim of political propaganda through AI-generated content is not to spread misinformation, but to spread the impression that any information is as good as any other (Goldstein et al. 2023 [Other Internet Resources]). In the AI dominated news world, all news is reduced to vying for attention, to “click-baiting” – meaning that what is actually read is not what readers want to pay attention to. If the information on the basis of which humans take decisions is compromised or biased in a way that some voices are heard more than others, this is sometimes called “epistemic injustice” (Fricker 2007; Kay, Kasirzadeh, and Mohamed 2024). These developments have found significant interest in political science and media studies (Helbing et al. 2019; Coeckelbergh 2024), and some authors have diagnosed a form of fascism in contemporary AI developments (Mühlhoff 2025). Others have argued that the “hallucinations” that plague LLMs are a form of this “bullshit” (Hicks, Humphries, and Slater 2024) or create a “testimony gap” (Robert Sparrow and Flenady 2025).",
+   "html_en": "These developments not only support deception and manipulation, but also the era of “bullshit” (Frankfurt 2005), or post-truth, where anyone can have their own “alternative facts”, and thus any information is as good as any other (this is sometimes confused with “free speech”). Characteristically, the main aim of political propaganda through AI-generated content is not to spread misinformation, but to spread the impression that any information is as good as any other (Goldstein et al. 2023 [Other Internet Resources]). In the AI dominated news world, all news is reduced to vying for attention, to “click-baiting” – meaning that what is actually read is not what readers want to pay attention to. If the information on the basis of which humans take decisions is compromised or biased in a way that some voices are heard more than others, this is sometimes called “epistemic injustice” (Fricker 2007; Kay, Kasirzadeh, and Mohamed 2024). These developments have found significant interest in political science and media studies (Helbing et al. 2019; Coeckelbergh 2024), and some authors have diagnosed a form of fascism in contemporary AI developments (Mühlhoff 2025). Others have argued that the “hallucinations” that plague LLMs are a form of this “bullshit” (Hicks, Humphries, and Slater 2024) or create a “testimony gap” (Robert Sparrow and Flenady 2025).",
+   "pid": "p094",
+   "zh": "这些发展不仅助长欺骗与操纵，也助长了“扯淡”（bullshit）（Frankfurt 2005）或后真相（post-truth）的时代——在这个时代，任何人都可以拥有自己的“另类事实”，从而任何信息都与其他信息一样好（这有时被混淆为“言论自由”）。其典型特征是，通过人工智能生成内容进行的政治宣传，其主要目的不是传播错误信息，而是传播这样一种印象：任何信息都与其他信息一样好（Goldstein et al. 2023 [Other Internet Resources]）。在人工智能主导的新闻世界里，所有新闻都被还原为争夺注意力，沦为“标题党”（click-baiting）——这意味着人们实际读到的东西，并非读者真正想关注的东西。如果人类据以决策的信息受到损害或带有偏见，以至于某些声音比其他声音更容易被听到，这有时被称为“认识论不正义”（epistemic injustice）（Fricker 2007; Kay, Kasirzadeh, and Mohamed 2024）。这些发展已引起政治学与媒介研究的显著关注（Helbing et al. 2019; Coeckelbergh 2024），一些作者更在当代人工智能发展中诊断出一种法西斯主义的形态（Mühlhoff 2025）。另一些作者则论证说，困扰大语言模型（LLM）的“幻觉”（hallucinations）正是这种“扯淡”的一种形式（Hicks, Humphries, and Slater 2024），或造成了一种“见证缺口”（testimony gap）（Robert Sparrow and Flenady 2025）。",
+   "logic": [
+    "将前述发展概括为“扯淡/后真相”时代的来临：信息失去真假高下之分，并澄清这不等同于言论自由。",
+    "指出人工智能政治宣传的真正目的不是传播错误信息本身，而是制造“一切信息等价”的印象。",
+    "描述人工智能主导的新闻生态：新闻沦为争夺注意力的标题党，阅读内容与读者真实关切脱节。",
+    "引入“认识论不正义”概念，指出决策信息被损害、声音权重不均；并列举学界反应：政治学与媒介研究关注、有学者诊断法西斯主义形态、有人将大语言模型幻觉视为扯淡或见证缺口。"
+   ],
+   "terms": [
+    {
+     "en": "bullshit",
+     "zh": "扯淡",
+     "def": "本文借自哈里·法兰克福的概念，指说话者不关心真假、只图操控听众印象的话语。"
+    },
+    {
+     "en": "post-truth",
+     "zh": "后真相",
+     "def": "指客观事实对塑造公众舆论的影响不及诉诸情感与个人信念的时代状况。"
+    },
+    {
+     "en": "epistemic injustice",
+     "zh": "认识论不正义",
+     "def": "Miranda Fricker 提出的概念，指偏见使某人作为认知者的地位受不公正贬低；本文引申指决策信息被系统性扭曲。"
+    },
+    {
+     "en": "hallucination",
+     "zh": "幻觉",
+     "def": "本文指大语言模型生成貌似可信却虚假内容的现象，有学者将其视为“扯淡”。"
+    }
+   ],
+   "background": [
+    {
+     "title": "哈里·法兰克福（Harry Frankfurt）",
+     "body": "美国哲学家，2005 年出版《论扯淡》（On Bullshit），将“扯淡”界定为对真假漠然、只图操控印象的话语。"
+    },
+    {
+     "title": "米兰达·弗里克（Miranda Fricker）",
+     "body": "英国哲学家，2007 年《认识论不正义》一书提出该概念，指偏见使某人作为认知者的地位受到不公正贬低。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "deception",
+     "pos": "n.",
+     "zh": "欺骗",
+     "ex": "support deception and manipulation"
+    },
+    {
+     "en": "as good as any other",
+     "pos": "phr.",
+     "zh": "与其他一样好",
+     "ex": "any information is as good as any other"
+    },
+    {
+     "en": "vying for",
+     "pos": "phr.",
+     "zh": "争夺",
+     "ex": "reduced to vying for attention"
+    },
+    {
+     "en": "compromised",
+     "pos": "adj.",
+     "zh": "受损的；被损害的",
+     "ex": "the information...is compromised or biased"
+    },
+    {
+     "en": "plague",
+     "pos": "v.",
+     "zh": "困扰；折磨",
+     "ex": "the “hallucinations” that plague LLMs"
+    },
+    {
+     "en": "diagnose",
+     "pos": "v.",
+     "zh": "诊断",
+     "ex": "some authors have diagnosed a form of fascism"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "It was common to consider what a repressive regime like that Hitler might have done with such techniques, but we do not need these fictional cases. It is already evident, that such techniques are used in pseudo-democracies, to ensure that elections go the intended way, that dissenting voices are silenced, and people controlled (e.g. in the name of “national security” or “fighting terrorism”). E.g. there is good reason to think that these moves from mainstream news media to AI-mediated “shared media” have directly influenced the US presidential elections in 2024 (Merrin and Hoskins 2025). The technical angle of this discussion has been discussed by (O’Neil 2016) in her influential book Weapons of Math Destruction, and in (Yeung and Lodge 2019). – The politician Henry Kissinger has said we have “generated a potentially dominating technology in search of a guiding philosophy” (Kissinger 2018).",
+   "html_en": "It was common to consider what a repressive regime like that Hitler might have done with such techniques, but we do not need these fictional cases. It is already evident, that such techniques are used in pseudo-democracies, to ensure that elections go the intended way, that dissenting voices are silenced, and people controlled (e.g. in the name of “national security” or “fighting terrorism”). E.g. there is good reason to think that these moves from mainstream news media to AI-mediated “shared media” have directly influenced the US presidential elections in 2024 (Merrin and Hoskins 2025). The technical angle of this discussion has been discussed by (O’Neil 2016) in her influential book <em>Weapons of Math Destruction,</em> and in (Yeung and Lodge 2019). – The politician Henry Kissinger has said we have “generated a potentially dominating technology in search of a guiding philosophy” (Kissinger 2018).",
+   "pid": "p095",
+   "zh": "过去人们常常设想，像希特勒那样的压制性政权若掌握了这类技术会做出什么，但我们并不需要这些虚构的案例。已经显而易见的是，这类技术正被用于伪民主政体（pseudo-democracy）之中，以确保选举按既定方向进行，确保异见声音被压制、人民被控制（例如以“国家安全”或“反恐”的名义）。例如，我们有充分理由认为，从主流新闻媒体向人工智能中介的“共享媒体”（shared media）的转变，已经直接影响了 2024 年美国总统选举（Merrin and Hoskins 2025）。这一讨论的技术面向，奥纳（O’Neil 2016）已在其影响深远的著作《数学毁灭武器》（Weapons of Math Destruction）中加以讨论，Yeung and Lodge 2019 亦有讨论。——政治家亨利·基辛格（Henry Kissinger）曾说，我们已经“造出了一种潜在地占据支配地位的技术，却在寻找一种指引性的哲学”（Kissinger 2018）。",
+   "logic": [
+    "以“无需虚构案例”的转折，指出人工智能操控技术在伪民主政体中的现实使用。",
+    "列举其现实用途：操纵选举、压制异见、控制人民，并以“国家安全”“反恐”为名义。",
+    "以 2024 年美国总统选举为例，说明人工智能中介媒体转变的直接政治影响。",
+    "引《数学毁灭武器》及基辛格之言收束：技术已具支配性，却缺乏指引它的哲学。"
+   ],
+   "terms": [
+    {
+     "en": "pseudo-democracy",
+     "zh": "伪民主",
+     "def": "本文指表面维持选举形式、实则以技术操控民意的政体形态。"
+    },
+    {
+     "en": "shared media",
+     "zh": "共享媒体",
+     "def": "本文指由人工智能中介、用户参与生产与传播的新型媒体形态。"
+    }
+   ],
+   "background": [
+    {
+     "title": "《数学毁灭武器》（Weapons of Math Destruction）",
+     "body": "凯西·奥纳（Cathy O’Neil）2016 年著作，揭示大数据算法如何在招聘、教育、司法等领域放大歧视、造成系统性伤害。"
+    },
+    {
+     "title": "亨利·基辛格（Henry Kissinger）",
+     "body": "美国前国务卿，晚年与他人合作撰文讨论人工智能对地缘政治与人类文明方向的挑战。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "repressive regime",
+     "pos": "phr.",
+     "zh": "压制性政权",
+     "ex": "a repressive regime like that Hitler"
+    },
+    {
+     "en": "dissenting voice",
+     "pos": "phr.",
+     "zh": "异见声音",
+     "ex": "dissenting voices are silenced"
+    },
+    {
+     "en": "in the name of",
+     "pos": "phr.",
+     "zh": "以……的名义",
+     "ex": "in the name of “national security”"
+    },
+    {
+     "en": "mainstream",
+     "pos": "adj.",
+     "zh": "主流的",
+     "ex": "from mainstream news media to AI-mediated"
+    },
+    {
+     "en": "influential",
+     "pos": "adj.",
+     "zh": "有影响的",
+     "ex": "her influential book Weapons of Math Destruction"
+    },
+    {
+     "en": "in search of",
+     "pos": "phr.",
+     "zh": "寻找",
+     "ex": "a potentially dominating technology in search of a guiding philosophy"
+    }
+   ]
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.9.3 Natural Environment",
+   "level": 4,
+   "id": "sec-2-9-3",
+   "num": "2.9.3",
+   "title_en": "Natural Environment",
+   "title_zh": "自然环境"
+  },
+  {
+   "kind": "p",
+   "text_en": "One interesting question, that has received more attention in recent years, is whether the development of AI is environmentally sustainable: While there are clearly ecological benefits to AI (e.g. optimising energy efficiency (Skare, Gavurova, and Sinkovic 2025), or just replacing some business travel by video conferencing), AI hardware systems produce waste that is very hard to recycle, use materials that are environmentally damaging to generate, consume water for cooling, and consume vast amounts of energy, especially for the training and use (inference) of machine learning systems. Unfortunately, industry is actively hiding data about energy use. For the year 2022, where there is data, estimates for the percentage of total electricity used world-wide are: 0.04% for AI processors (De Vries 2023; Luers and Jonathan Koomey 2024), 0.38% for Bitcoin mining (Neumueller 2023), 1.8–2.6% for all data centres (Kamiya and Bertoldi 2024). A hardware-based prediction (de Vries-Gao 2025) puts all AI systems taken together on a power consumption level close to the Netherlands by 2025. (But still only half that of bitcoin mining and 20% of all non-crypto data centre use.) The massive investment into AI data centres indicates that from 2026 we might look at 20% increases year-on-year (O’Donnell and Crownhart 2025) – while any ecological gain is far less evident.",
+   "html_en": "One interesting question, that has received more attention in recent years, is whether the development of AI is environmentally sustainable: While there are clearly ecological benefits to AI (e.g. optimising energy efficiency (Skare, Gavurova, and Sinkovic 2025), or just replacing some business travel by video conferencing), AI hardware systems produce waste that is very hard to recycle, use materials that are environmentally damaging to generate, consume water for cooling, and consume vast amounts of energy, especially for the training and use (inference) of machine learning systems. Unfortunately, industry is actively hiding data about energy use. For the year 2022, where there is data, estimates for the percentage of total electricity used world-wide are: 0.04% for AI processors (De Vries 2023; Luers and Jonathan Koomey 2024), 0.38% for Bitcoin mining (Neumueller 2023), 1.8–2.6% for all data centres (Kamiya and Bertoldi 2024). A hardware-based prediction (de Vries-Gao 2025) puts all AI systems taken together on a power consumption level close to the Netherlands by 2025. (But still only half that of bitcoin mining and 20% of all non-crypto data centre use.) The massive investment into AI data centres indicates that from 2026 we might look at 20% increases year-on-year (O’Donnell and Crownhart 2025) – while any ecological gain is far less evident.",
+   "pid": "p096",
+   "zh": "近年来受到更多关注的一个有趣问题是，人工智能的发展在环境上是否可持续（environmentally sustainable）：尽管人工智能显然有生态效益（例如优化能源效率（Skare, Gavurova, and Sinkovic 2025），或者仅仅以视频会议取代部分商务差旅），但人工智能硬件系统会产生极难回收的废弃物，其所用材料在开采生产过程中破坏环境，冷却需要消耗水，并消耗巨量能源，尤其是在机器学习（machine learning）系统的训练与使用（即推理（inference））阶段。遗憾的是，产业界正在主动隐瞒有关能耗的数据。在有数据可考的 2022 年，各项占全球总用电量百分比的估计为：人工智能处理器占 0.04%（De Vries 2023; Luers and Jonathan Koomey 2024），比特币挖矿占 0.38%（Neumueller 2023），所有数据中心合计占 1.8–2.6%（Kamiya and Bertoldi 2024）。一项基于硬件的预测（de Vries-Gao 2025）认为，到 2025 年，所有人工智能系统合计的耗电量将接近荷兰的全国用电量。（但仍只有比特币挖矿的一半，以及所有非加密货币数据中心用电量的 20%。）对人工智能数据中心的巨额投资表明，从 2026 年起，我们可能看到逐年 20% 的增长（O’Donnell and Crownhart 2025）——而任何生态收益都远不那么明显。",
+   "logic": [
+    "提出人工智能发展是否环境可持续这一近年受关注的问题。",
+    "辩证列出人工智能的生态收益与硬件代价（难回收废弃物、材料破坏、冷却水耗、训练与推理耗能），并指出产业界隐瞒能耗数据。",
+    "以 2022 年具体数据（人工智能处理器、比特币挖矿、数据中心占比）给出能耗现状的量化图景。",
+    "引硬件预测与投资趋势，指出人工智能能耗将高速增长而生态收益远不明显。"
+   ],
+   "terms": [
+    {
+     "en": "inference",
+     "zh": "推理",
+     "def": "机器学习术语，指训练完成后模型用于实际预测或生成的运行阶段，与训练阶段并列为主要能耗环节。"
+    },
+    {
+     "en": "environmentally sustainable",
+     "zh": "环境可持续的",
+     "def": "本文指人工智能发展在资源消耗与生态影响上可长期承受的状态。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "sustainable",
+     "pos": "adj.",
+     "zh": "可持续的",
+     "ex": "the development of AI is environmentally sustainable"
+    },
+    {
+     "en": "recycle",
+     "pos": "v.",
+     "zh": "回收利用",
+     "ex": "produce waste that is very hard to recycle"
+    },
+    {
+     "en": "vast amounts of",
+     "pos": "phr.",
+     "zh": "巨量的",
+     "ex": "consume vast amounts of energy"
+    },
+    {
+     "en": "year-on-year",
+     "pos": "adv.",
+     "zh": "逐年；同比",
+     "ex": "20% increases year-on-year"
+    },
+    {
+     "en": "hide data",
+     "pos": "phr.",
+     "zh": "隐瞒数据",
+     "ex": "industry is actively hiding data about energy use"
+    },
+    {
+     "en": "ecological benefits",
+     "pos": "phr.",
+     "zh": "生态效益",
+     "ex": "there are clearly ecological benefits to AI"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "Giving the increasing problem of energy consumption, there is now significant technical research into making AI development and use more energy efficient. However, it is not clear that this will lead to reduced energy use, due to the “Jevons paradox”: More efficient use might cause more use, and thus more energy use overall. It appears that some actors in this space offload ecological costs to the general society. There is significant literature that stresses the importance of environmental issues in political philosophy of AI, e.g. (Bender et al. 2021; Crawford 2021; van Wynsberghe 2021; Bolte and van Wynsberghe 2024) – what is less clear is what the contribution of philosophical work in this space could be.",
+   "html_en": "Giving the increasing problem of energy consumption, there is now significant technical research into making AI development and use more energy efficient. However, it is not clear that this will lead to reduced energy use, due to the “Jevons paradox”: More efficient use might cause more use, and thus more energy use overall. It appears that some actors in this space offload ecological costs to the general society. There is significant literature that stresses the importance of environmental issues in political philosophy of AI, e.g. (Bender et al. 2021; Crawford 2021; van Wynsberghe 2021; Bolte and van Wynsberghe 2024) – what is less clear is what the contribution of philosophical work in this space could be.",
+   "pid": "p097",
+   "zh": "鉴于能耗问题日益严重，如今已有大量技术研究致力于使人工智能的开发与使用更具能效。然而，由于“杰文斯悖论”（Jevons paradox），尚不清楚这是否会带来能耗的实际下降：更高的使用效率可能导致使用量增加，从而总能耗反而上升。看来这一领域的某些行动者正把生态成本转嫁给整个社会。有大量文献强调环境问题在人工智能政治哲学中的重要性，例如（Bender et al. 2021; Crawford 2021; van Wynsberghe 2021; Bolte and van Wynsberghe 2024）——而不太清楚的是，哲学工作在这一领域能作出何种贡献。",
+   "logic": [
+    "承认学界与产业界正投入大量技术研究提升人工智能能效。",
+    "以“杰文斯悖论”指出能效提升未必降低总能耗，反而可能因使用量增加而上升。",
+    "批评某些行动者将生态成本外部化、转嫁给社会。",
+    "指出环境议题已进入人工智能政治哲学文献，但哲学工作的具体贡献尚不明确。"
+   ],
+   "terms": [
+    {
+     "en": "Jevons paradox",
+     "zh": "杰文斯悖论",
+     "def": "经济学现象：提高资源使用效率反而增加资源总消耗，因效率降低成本、刺激更多使用；本段先用于能耗。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "energy efficient",
+     "pos": "phr.",
+     "zh": "节能的；高能效的",
+     "ex": "making AI development and use more energy efficient"
+    },
+    {
+     "en": "offload",
+     "pos": "v.",
+     "zh": "转嫁；外部化",
+     "ex": "offload ecological costs to the general society"
+    },
+    {
+     "en": "due to",
+     "pos": "phr.",
+     "zh": "由于",
+     "ex": "due to the “Jevons paradox”"
+    },
+    {
+     "en": "actor",
+     "pos": "n.",
+     "zh": "行动者",
+     "ex": "some actors in this space"
+    },
+    {
+     "en": "contribution",
+     "pos": "n.",
+     "zh": "贡献",
+     "ex": "what the contribution of philosophical work in this space"
+    },
+    {
+     "en": "significant",
+     "pos": "adj.",
+     "zh": "大量的；重要的",
+     "ex": "there is now significant technical research"
+    }
+   ]
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.9.4 Economics",
+   "level": 4,
+   "id": "sec-2-9-4",
+   "num": "2.9.4",
+   "title_en": "Economics",
+   "title_zh": "经济"
+  },
+  {
+   "kind": "p",
+   "text_en": "One fundamental societal impact of AI and robotics is on economic structures. There are changes in productivity, the distribution of wealth, the process of production, and in the labour market. While these are of political importance and of philosophical interest, we need to tread carefully here, rather than doing amateur economics.",
+   "html_en": "One fundamental societal impact of AI and robotics is on economic structures. There are changes in productivity, the distribution of wealth, the process of production, and in the labour market. While these are of political importance and of philosophical interest, we need to tread carefully here, rather than doing amateur economics.",
+   "pid": "p098",
+   "zh": "人工智能与机器人学对社会的一个根本性影响，是对经济结构的影响。其中包括生产率、财富分配、生产过程以及劳动力市场方面的变化。尽管这些问题兼具政治重要性与哲学趣味，我们在此处仍需谨慎行事，而不是充当业余经济学家。",
+   "logic": [
+    "指出人工智能与机器人对经济结构的根本性影响这一议题。",
+    "列举其影响的四个方面：生产率、财富分配、生产过程、劳动力市场。",
+    "方法论上自我设限：提醒谨慎对待，不做业余经济学分析。"
+   ],
+   "terms": [
+    {
+     "en": "labour market",
+     "zh": "劳动力市场",
+     "def": "本文指人工智能影响就业与工资的供需结构，是经济议题的核心场域。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "societal impact",
+     "pos": "phr.",
+     "zh": "社会影响",
+     "ex": "One fundamental societal impact of AI and robotics"
+    },
+    {
+     "en": "productivity",
+     "pos": "n.",
+     "zh": "生产率",
+     "ex": "There are changes in productivity"
+    },
+    {
+     "en": "tread carefully",
+     "pos": "phr.",
+     "zh": "谨慎行事",
+     "ex": "we need to tread carefully here"
+    },
+    {
+     "en": "amateur",
+     "pos": "adj.",
+     "zh": "业余的",
+     "ex": "rather than doing amateur economics"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "The issue of fair distribution of goods in a society, and of justice, have been central in political philosophy since its beginnings. A standard view is that distributive justice should be rationally decided from behind a “veil of ignorance” (Rawls 1971), i.e. as if one does not know what position in a society one would actually be taking (labourer or industrialist, etc.). Rawls thought the chosen principles would then support basic liberties and a distribution that is of greatest benefit to the least-advantaged members of society. It would appear that the AI economy has three features that make such justice unlikely: First, it operates in a largely unregulated environment where responsibility is often hard to allocate. Second, it operates in markets that have a “winner takes all” feature, where monopolies develop quickly. Third the “new economy” of the digital service industries is based on intangible assets, also called “capitalism without capital” (Haskel and Westlake 2017). This means that it is difficult to control multinational digital corporations that do not rely on a physical plant in a particular physical location. These three features seem to suggest that if we leave the distribution of wealth to free market forces, the result would be an unjust distribution. This seems to be happening in the USA in the 2020s with a “k-shaped” economy where the benefits of economic growth are skewed towards high-wealth individuals.",
+   "html_en": "The issue of fair distribution of goods in a society, and of justice, have been central in political philosophy since its beginnings. A standard view is that distributive justice should be rationally decided from behind a “veil of ignorance” (Rawls 1971), i.e. as if one does not know what position in a society one would actually be taking (labourer or industrialist, etc.). Rawls thought the chosen principles would then support basic liberties and a distribution that is of greatest benefit to the least-advantaged members of society. It would appear that the AI economy has three features that make such justice unlikely: First, it operates in a largely <em>unregulated</em> environment where responsibility is often hard to allocate. Second, it operates in markets that have a “winner takes all” feature, where <em>monopolies</em> develop quickly. Third the “new economy” of the digital service industries is based on <em>intangible assets</em>, also called “capitalism without capital” (Haskel and Westlake 2017). This means that it is difficult to control multinational digital corporations that do not rely on a physical plant in a particular physical location. These three features seem to suggest that if we leave the distribution of wealth to free market forces, the result would be an unjust distribution. This seems to be happening in the USA in the 2020s with a “k-shaped” economy where the benefits of economic growth are skewed towards high-wealth individuals.",
+   "pid": "p099",
+   "zh": "社会中物品的公平分配问题以及正义问题，自政治哲学诞生之初便是其核心。一种标准观点认为，分配正义（distributive justice）应当在“无知之幕”（veil of ignorance）背后被理性地决定（Rawls 1971），也就是说，仿佛人们不知道自己在一个社会中实际将占据什么位置（劳动者还是工业家等等）。罗尔斯（Rawls）认为，如此选出的原则将支持基本自由，以及一种最有利于社会中最不利成员（least-advantaged）的分配。看来，人工智能经济具有三个使这种正义难以实现的特征：第一，它运行在一个基本不受监管的环境中，责任往往难以分配。第二，它运行在具有“赢者通吃”（winner takes all）特征的市场中，垄断迅速形成。第三，数字服务业的“新经济”以无形资产（intangible assets）为基础，也被称为“没有资本的资本主义”（capitalism without capital）（Haskel and Westlake 2017）。这意味着，那些不依赖于某个特定地理位置上的实体工厂的跨国数字公司，难以加以控制。这三个特征似乎表明，如果我们把财富的分配交给自由市场力量，结果将是一种不正义的分配。21 世纪 20 年代的美国似乎正在发生这种情况：其“K 形”经济中，经济增长的收益向高财富个人倾斜。",
+   "logic": [
+    "从政治哲学传统切入：分配正义自始便是核心问题。",
+    "复述罗尔斯的标准观点：在“无知之幕”后理性选择分配原则，将支持基本自由与最有利最不利者的分配。",
+    "论证人工智能经济的三个特征（基本无监管、赢者通吃市场、基于无形资产）使分配正义难以实现。",
+    "推论：听任自由市场分配将导致不正义，并以美国 2020 年代“K 形”经济作为现实印证。"
+   ],
+   "terms": [
+    {
+     "en": "distributive justice",
+     "zh": "分配正义",
+     "def": "政治哲学核心议题，关注社会物品与负担在成员间的公平分配。"
+    },
+    {
+     "en": "veil of ignorance",
+     "zh": "无知之幕",
+     "def": "罗尔斯的思想实验装置：立约者在不知自身社会地位的前提下选择正义原则。"
+    },
+    {
+     "en": "least-advantaged",
+     "zh": "最不利者",
+     "def": "罗尔斯正义论中指社会中处境最差的成员群体，差别原则要求分配最有利于他们。"
+    },
+    {
+     "en": "winner takes all",
+     "zh": "赢者通吃",
+     "def": "本文指市场份额高度向头部集中、垄断迅速形成的竞争结构。"
+    },
+    {
+     "en": "intangible assets",
+     "zh": "无形资产",
+     "def": "本文指数字经济中不依赖实体工厂的知识、数据、平台等资产形态，构成“没有资本的资本主义”。"
+    }
+   ],
+   "background": [
+    {
+     "title": "约翰·罗尔斯（John Rawls, 1921–2002）",
+     "body": "美国政治哲学家，1971 年《正义论》提出“作为公平的正义”，以“无知之幕”思想实验和差别原则著称。"
+    },
+    {
+     "title": "《没有资本的资本主义》（Capitalism without Capital）",
+     "body": "Haskel 与 Westlake 于 2017 年出版的著作，论证发达经济已转向以无形资产为基础的“新经济”。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "distribution",
+     "pos": "n.",
+     "zh": "分配",
+     "ex": "fair distribution of goods in a society"
+    },
+    {
+     "en": "allocate",
+     "pos": "v.",
+     "zh": "分配；分派",
+     "ex": "responsibility is often hard to allocate"
+    },
+    {
+     "en": "monopoly",
+     "pos": "n.",
+     "zh": "垄断",
+     "ex": "where monopolies develop quickly"
+    },
+    {
+     "en": "skew",
+     "pos": "v.",
+     "zh": "使倾斜；使偏向",
+     "ex": "are skewed towards high-wealth individuals"
+    },
+    {
+     "en": "leave...to",
+     "pos": "phr.",
+     "zh": "听任；把……交给",
+     "ex": "leave the distribution of wealth to free market forces"
+    },
+    {
+     "en": "multinational",
+     "pos": "adj.",
+     "zh": "跨国的",
+     "ex": "control multinational digital corporations"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "One area where this is visible is that AI and robotics are technologies that are developed and exploited mainly in affluent societies, sometimes through exploitation of cheap labour. This has led to suggestions that some of the issues in this connection are “colonial” (Adams 2021; Mhlambi and Tiribelli 2023) and contribute to the massive global disparity of wealth – e.g. university professors in Africa will earn ca. 10% of those in Europe. Even within affluent societies the access to AI and participation in its use are unequally distributed – roughly along the lines of general inequality. There is also a significant discrepancy between US and Europe, in that the US dominates digital markets, especially services.",
+   "html_en": "One area where this is visible is that AI and robotics are technologies that are developed and exploited mainly in affluent societies, sometimes through exploitation of cheap labour. This has led to suggestions that some of the issues in this connection are “colonial” (Adams 2021; Mhlambi and Tiribelli 2023) and contribute to the massive global disparity of wealth – e.g. university professors in Africa will earn ca. 10% of those in Europe. Even <em>within</em> affluent societies the access to AI and participation in its use are unequally distributed – roughly along the lines of general inequality. There is also a significant discrepancy between US and Europe, in that the US dominates digital markets, especially services.",
+   "pid": "p100",
+   "zh": "其中一个可见的领域是：人工智能与机器人学是主要在富裕社会中开发和利用的技术，有时还通过剥削廉价劳动力来实现。这导致有人提出，与此相关的一些问题具有“殖民”（colonial）性质（Adams 2021; Mhlambi and Tiribelli 2023），并加剧了全球范围内巨大的财富差距（global disparity of wealth）——例如，非洲大学教授的收入约为欧洲教授的 10%。即使在富裕社会内部，获取人工智能与参与使用人工智能的机会也是不平等分配的——大致与一般不平等的格局相一致。美国与欧洲之间也存在显著落差：美国主导着数字市场，尤其是数字服务市场。",
+   "logic": [
+    "指出人工智能技术主要在富裕社会开发利用、有时剥削廉价劳动这一现实。",
+    "引出“殖民性”批判，说明其加剧全球财富差距，并以非洲与欧洲教授收入对比为例。",
+    "指出富裕社会内部人工智能可及性亦沿一般不平等格局分布。",
+    "补充美欧之间的落差：美国主导数字服务市场。"
+   ],
+   "terms": [
+    {
+     "en": "colonial",
+     "zh": "殖民性",
+     "def": "本文指人工智能开发利用中复制殖民式剥削结构（廉价劳动、财富外流）的批判视角。"
+    },
+    {
+     "en": "global disparity of wealth",
+     "zh": "全球财富差距",
+     "def": "本文指人工智能相关发展加剧的全球南北财富不均。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "affluent",
+     "pos": "adj.",
+     "zh": "富裕的",
+     "ex": "mainly in affluent societies"
+    },
+    {
+     "en": "exploitation",
+     "pos": "n.",
+     "zh": "剥削",
+     "ex": "exploitation of cheap labour"
+    },
+    {
+     "en": "disparity",
+     "pos": "n.",
+     "zh": "差距；落差",
+     "ex": "the massive global disparity of wealth"
+    },
+    {
+     "en": "access to",
+     "pos": "phr.",
+     "zh": "获取……的机会",
+     "ex": "the access to AI and participation in its use"
+    },
+    {
+     "en": "dominate",
+     "pos": "v.",
+     "zh": "主导",
+     "ex": "the US dominates digital markets"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "The area that is most prominent in public discussion is that “robots will take our jobs”, now perhaps “AI will take our jobs”. There is an experience, especially among manual labourers, that productivity gains through automation have led to unemployment. Is AI just another case of this? Unlike in 2020, an impact of AI systems on the labour market is now clearly visible, and more is widely predicted – after all, the main motivation of the enormous current AI investment (ca. 0.5 trillion US$ in 2025) is expected profit from productivity gains.",
+   "html_en": "The area that is most prominent in public discussion is that “robots will take our jobs”, now perhaps “AI will take our jobs”. There is an experience, especially among manual labourers, that productivity gains through automation have led to unemployment. Is AI just another case of this? Unlike in 2020, an impact of AI systems on the labour market is now clearly visible, and more is widely predicted – after all, the main motivation of the enormous current AI investment (ca. 0.5 trillion US$ in 2025) is expected profit from productivity gains.",
+   "pid": "p101",
+   "zh": "在公共讨论中最为突出的领域，是“机器人将抢走我们的工作”，如今也许变成了“人工智能将抢走我们的工作”。有一种经验，尤其在体力劳动者中间，是通过自动化获得的生产率提升导致了失业。人工智能是否只是这种情况的又一例？与 2020 年不同，人工智能系统对劳动力市场的影响如今已清晰可见，而且更大的影响被广泛预测——毕竟，当前巨额人工智能投资（2025 年约 0.5 万亿美元）的主要动机，正是来自生产率提升的预期利润。",
+   "logic": [
+    "从公共讨论中最突出的“人工智能抢工作”焦虑切入。",
+    "回顾体力劳动者因自动化而失业的历史经验，提出“人工智能是否又一例”的问题。",
+    "对比 2020 年，指出人工智能对劳动力市场的影响已清晰可见且被广泛预测。",
+    "以 2025 年约 0.5 万亿美元投资及其利润动机为据，论证影响之大。"
+   ],
+   "terms": [
+    {
+     "en": "technological unemployment",
+     "zh": "技术性失业",
+     "def": "见术语表：因自动化与技术进步导致的失业，是本段公共焦虑的核心议题。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "prominent",
+     "pos": "adj.",
+     "zh": "突出的；显著的",
+     "ex": "the area that is most prominent in public discussion"
+    },
+    {
+     "en": "manual labourer",
+     "pos": "phr.",
+     "zh": "体力劳动者",
+     "ex": "especially among manual labourers"
+    },
+    {
+     "en": "automation",
+     "pos": "n.",
+     "zh": "自动化",
+     "ex": "productivity gains through automation"
+    },
+    {
+     "en": "visible",
+     "pos": "adj.",
+     "zh": "可见的",
+     "ex": "an impact of AI systems on the labour market is now clearly visible"
+    },
+    {
+     "en": "motivation",
+     "pos": "n.",
+     "zh": "动机",
+     "ex": "the main motivation of the enormous current AI investment"
+    },
+    {
+     "en": "expected profit",
+     "pos": "phr.",
+     "zh": "预期利润",
+     "ex": "expected profit from productivity gains"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "Philosophical responses to the issue of unemployment from AI have ranged from the alarmed (Carl Benedikt Frey and Osborne 2013; Westlake 2014) to the neutral (Metcalf, Keller, and Boyd 2016; Calo 2018; Carl Benedict Frey 2019) and the optimistic (Brynjolfsson and McAfee 2016; Harari 2016; Danaher 2019). For the moment, it appears that the overall impact of AI is that of generating more employment (World Economic Forum 2025), but there are indications that this will change.",
+   "html_en": "Philosophical responses to the issue of unemployment from AI have ranged from the alarmed (Carl Benedikt Frey and Osborne 2013; Westlake 2014) to the neutral (Metcalf, Keller, and Boyd 2016; Calo 2018; Carl Benedict Frey 2019) and the optimistic (Brynjolfsson and McAfee 2016; Harari 2016; Danaher 2019). For the moment, it appears that the overall impact of AI is that of generating more employment (World Economic Forum 2025), but there are indications that this will change.",
+   "pid": "p102",
+   "zh": "哲学界对人工智能导致失业这一问题的回应，从警觉派（Carl Benedikt Frey and Osborne 2013; Westlake 2014）到中立派（Metcalf, Keller, and Boyd 2016; Calo 2018; Carl Benedict Frey 2019）再到乐观派（Brynjolfsson and McAfee 2016; Harari 2016; Danaher 2019）不等。就目前而言，人工智能的总体影响似乎是创造了更多就业（World Economic Forum 2025），但有迹象表明这一状况将会改变。",
+   "logic": [
+    "梳理哲学界对人工智能失业问题的三种立场光谱：警觉、中立、乐观。",
+    "给出当前经验判断：人工智能总体上创造了更多就业，但预示这一趋势可能逆转。"
+   ],
+   "terms": [
+    {
+     "en": "technological unemployment",
+     "zh": "技术性失业",
+     "def": "本文指人工智能引起的失业问题，学界立场分化为警觉、中立与乐观三派。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "range from...to",
+     "pos": "phr.",
+     "zh": "从……到……不等",
+     "ex": "have ranged from the alarmed"
+    },
+    {
+     "en": "alarmed",
+     "pos": "adj.",
+     "zh": "警觉的；担忧的",
+     "ex": "from the alarmed (Carl Benedikt Frey and Osborne 2013)"
+    },
+    {
+     "en": "optimistic",
+     "pos": "adj.",
+     "zh": "乐观的",
+     "ex": "and the optimistic (Brynjolfsson and McAfee 2016)"
+    },
+    {
+     "en": "overall",
+     "pos": "adj.",
+     "zh": "总体的",
+     "ex": "the overall impact of AI is that of generating more employment"
+    },
+    {
+     "en": "indication",
+     "pos": "n.",
+     "zh": "迹象",
+     "ex": "there are indications that this will change"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "In principle, the labour market effect of automation seems to be fairly well understood as involving two channels: “(i) the nature of interactions between differently skilled workers and new technologies affecting labour demand and (ii) the equilibrium effects of technological progress through consequent changes in labour supply and product markets” (Goos 2018, 362). What currently seems to happen in the labour market as a result of AI & robotics automation is “job polarisation” of the “dumbbell” shape (Goos, Manning, and Salomons 2009) where growth occurs at the high-skill and the low-skill ends of the market, while mid-skill jobs, i.e. the majority of jobs, are under pressure and reduced because they most likely to be automated (Baldwin 2019).",
+   "html_en": "In principle, the labour market effect of automation seems to be fairly well understood as involving two channels: “(i) the nature of interactions between differently skilled workers and new technologies affecting labour demand and (ii) the equilibrium effects of technological progress through consequent changes in labour supply and product markets” (Goos 2018, 362). What currently seems to happen in the labour market as a result of AI & robotics automation is “job polarisation” of the “dumbbell” shape (Goos, Manning, and Salomons 2009) where growth occurs at the high-skill and the low-skill ends of the market, while mid-skill jobs, i.e. the majority of jobs, are under pressure and reduced because they most likely to be automated (Baldwin 2019).",
+   "pid": "p103",
+   "zh": "原则上，自动化的劳动力市场效应似乎已有较好的理解，涉及两条渠道：“（i）不同技能水平的工人与新技术之间互动的性质，影响着劳动需求；（ii）技术进步通过劳动供给与产品市场的相应变化所产生的均衡效应”（Goos 2018, 362）。当前，人工智能与机器人自动化在劳动力市场上似乎正在造成的，是呈“哑铃”形的“就业极化”（job polarisation）（Goos, Manning, and Salomons 2009）：市场两端——高技能端与低技能端——出现增长，而中等技能工作（亦即大多数工作）则承受压力、数量减少，因为它们最有可能被自动化（Baldwin 2019）。",
+   "logic": [
+    "援引劳动经济学，给出自动化影响劳动力市场的两条理论渠道。",
+    "描述当前人工智能与机器人自动化造成的“哑铃形就业极化”现象：高低技能端增长、中等技能工作受压萎缩。"
+   ],
+   "terms": [
+    {
+     "en": "job polarisation",
+     "zh": "就业极化",
+     "def": "本文指自动化使就业增长集中于高技能与低技能两端、中等技能工作萎缩的“哑铃形”结构。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "in principle",
+     "pos": "phr.",
+     "zh": "原则上",
+     "ex": "In principle, the labour market effect of automation"
+    },
+    {
+     "en": "channel",
+     "pos": "n.",
+     "zh": "渠道",
+     "ex": "involving two channels"
+    },
+    {
+     "en": "equilibrium",
+     "pos": "n.",
+     "zh": "均衡",
+     "ex": "the equilibrium effects of technological progress"
+    },
+    {
+     "en": "polarisation",
+     "pos": "n.",
+     "zh": "极化",
+     "ex": "is “job polarisation” of the “dumbbell” shape"
+    },
+    {
+     "en": "under pressure",
+     "pos": "phr.",
+     "zh": "承受压力",
+     "ex": "are under pressure and reduced"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "It seems clear that AI and robotics will lead to significant gains in productivity and thus overall societal wealth. It is said that the emphasis on “growth” is a modern phenomenon (Harari 2016, 240). The use of automation aims to increase productivity, such that fewer humans are required for the same output, or the product or service can be generated with lower cost.",
+   "html_en": "It seems clear that AI and robotics will lead to significant gains in productivity and thus overall societal wealth. It is said that the emphasis on “growth” is a modern phenomenon (Harari 2016, 240). The use of automation aims to increase productivity, such that fewer humans are required for the same output, or the product or service can be generated with lower cost.",
+   "pid": "p104",
+   "zh": "看来很清楚，人工智能与机器人学将带来生产率的显著提升，从而带来总体社会财富的增长。有人说，对“增长”的强调是一种现代现象（Harari 2016, 240）。使用自动化旨在提高生产率，使得同样的产出所需的人力更少，或者产品与服务可以以更低成本生产出来。",
+   "logic": [
+    "确认人工智能与机器人将显著提升生产率、增加社会总财富。",
+    "指出对“增长”的重视本身是一种现代现象。",
+    "说明自动化的目的机制：同样产出所需人力减少，或同等产出成本降低。"
+   ],
+   "terms": [
+    {
+     "en": "productivity",
+     "zh": "生产率",
+     "def": "本文指单位投入的产出效率，是自动化的直接目标，也是社会财富增长的来源。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "lead to",
+     "pos": "phr.",
+     "zh": "导致",
+     "ex": "will lead to significant gains in productivity"
+    },
+    {
+     "en": "emphasis",
+     "pos": "n.",
+     "zh": "强调；重视",
+     "ex": "the emphasis on “growth” is a modern phenomenon"
+    },
+    {
+     "en": "output",
+     "pos": "n.",
+     "zh": "产出",
+     "ex": "fewer humans are required for the same output"
+    },
+    {
+     "en": "at lower cost",
+     "pos": "phr.",
+     "zh": "以更低成本",
+     "ex": "generated with lower cost"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "This reduction in human workforce does not necessarily imply a loss of overall employment, because available wealth increases and that can increase demand sufficiently to counteract the productivity gain. In the long run, higher productivity in industrial societies has led to more wealth overall, especially since the industrial revolution. Major labour market disruptions have occurred in the past, e.g. in 1800 farming employed over 60% of the workforce in Europe and North-America, while by 2010 it employed ca. 5% in the same places (Anonymous 2013). Sometimes, these changes are fairly rapid, e.g. in the 20 years between 1950 and 1970 the number of hired agricultural workers in the UK was reduced by 50% (Zayed and Loft 2019). Also, the Jevons paradox (mentioned above on energy) might strike again: If, in some domain, the efficiency gain through AI is high enough to make a product cheaper, then the use might increase so much that overall need for workers is increased.",
+   "html_en": "This reduction in human workforce does not necessarily imply a loss of overall employment, because available wealth increases and that can increase demand sufficiently to counteract the productivity gain. In the long run, higher productivity in industrial societies has led to more wealth overall, especially since the industrial revolution. Major labour market disruptions have occurred in the past, e.g. in 1800 farming employed over 60% of the workforce in Europe and North-America, while by 2010 it employed ca. 5% in the same places (Anonymous 2013). Sometimes, these changes are fairly rapid, e.g. in the 20 years between 1950 and 1970 the number of hired agricultural workers in the UK was reduced by 50% (Zayed and Loft 2019). Also, the Jevons paradox (mentioned above on energy) might strike again: If, in some domain, the efficiency gain through AI is high enough to make a product cheaper, then the use might increase so much that overall need for workers is increased.",
+   "pid": "p105",
+   "zh": "这种人力劳动力的缩减，并不必然意味着总体就业的损失，因为可获取的财富增加了，而财富增加足以提高需求，足以抵消生产率的提升。从长远看，工业社会更高的生产率带来了总体更多的财富，尤其是自工业革命以来。历史上曾发生过重大的劳动力市场震荡：例如，1800 年农业在欧洲和北美雇用了超过 60% 的劳动力，而到 2010 年，在同一地区农业雇用的劳动力约为 5%（Anonymous 2013）。有时这些变化相当迅速：例如，在 1950 年至 1970 年这 20 年间，英国受雇农业工人的数量减少了 50%（Zayed and Loft 2019）。此外，杰文斯悖论（Jevons paradox，前文讨论能源时提及）可能再次发作：如果在某个领域，人工智能带来的效率提升足以使某种产品更便宜，那么其使用量可能增加到足以使工人的总体需求反而上升。",
+   "logic": [
+    "提出核心反驳：人力缩减不必然等于总就业损失，因财富增加会拉动需求、抵消生产率效应。",
+    "以工业革命以来的长期历史趋势，说明高生产率总体上带来更多财富。",
+    "以农业就业比重从 60% 降至 5%、英国农业工人 20 年减半两组历史数据，说明此类劳动力市场震荡古已有之且可相当迅速。",
+    "末句重提杰文斯悖论：人工智能降价可能刺激使用量，反增对工人的总需求。"
+   ],
+   "terms": [
+    {
+     "en": "Jevons paradox",
+     "zh": "杰文斯悖论",
+     "def": "前文已定义：效率提升反增总消耗；本段引申到劳动力需求——降价刺激使用，反增对工人的总需求。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "imply",
+     "pos": "v.",
+     "zh": "意味着；蕴涵",
+     "ex": "does not necessarily imply a loss of overall employment"
+    },
+    {
+     "en": "counteract",
+     "pos": "v.",
+     "zh": "抵消；对抗",
+     "ex": "to counteract the productivity gain"
+    },
+    {
+     "en": "in the long run",
+     "pos": "phr.",
+     "zh": "从长远看",
+     "ex": "In the long run, higher productivity"
+    },
+    {
+     "en": "disruption",
+     "pos": "n.",
+     "zh": "震荡；剧变",
+     "ex": "Major labour market disruptions have occurred"
+    },
+    {
+     "en": "strike",
+     "pos": "v.",
+     "zh": "发作；袭来",
+     "ex": "the Jevons paradox...might strike again"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "Classic automation in the industrial revolution replaced human muscle and manual labour, whereas digital automation now replaces human thought and intellectual work. Which areas of work are more prone to automation through is a question for the philosophy of AI, and it seems that artificial intelligence thrives where there are rules, patterns and norms, and especially where work is done with computers, already. Such rules and norms are ubiquitous: A lawyer knows how to draft a contract, an investment banker understands how to structure a deal, and a civil engineer can design a drainage system. In robotics, the classic argument is that the machines will take over the “dirty, dumb and dangerous” (DDD) jobs. If a job follows DDD patterns that can be taught, AI can learn it. It has been argued that the work of “professions” like lawyers, doctors, teachers has become an outdated monopoly (Susskind and Susskind 2022). In the creative industries there is a massive concern that the value of human creativity is merely exploited by ML systems (Anantrasirichai and Bull 2022) with disregard for intellectual property rights; but also that creativity will generally need to be re-evaluated (Du Sautoy 2019; Misselhorn 2023). There are now clear indications that academic teaching and academic research are similarly under threat: We are moving towards a world where machines “read” scientific publications “do research”, and “write”, “edit” or “review” scientific publications. (Perhaps science is moving in the direction of other publication systems that are overtaken by AI-generated “slop”.)",
+   "html_en": "Classic automation in the industrial revolution replaced human muscle and manual labour, whereas digital automation now replaces human thought and intellectual work. Which areas of work are more prone to automation through is a question for the philosophy of AI, and it seems that artificial intelligence thrives where there are rules, patterns and norms, and especially where work is done with computers, already. Such rules and norms are ubiquitous: A lawyer knows how to draft a contract, an investment banker understands how to structure a deal, and a civil engineer can design a drainage system. In robotics, the classic argument is that the machines will take over the “dirty, dumb and dangerous” (DDD) jobs. If a job follows DDD patterns that can be taught, AI can learn it. It has been argued that the work of “professions” like lawyers, doctors, teachers has become an outdated monopoly (Susskind and Susskind 2022). In the creative industries there is a massive concern that the value of human creativity is merely exploited by ML systems (Anantrasirichai and Bull 2022) with disregard for intellectual property rights; but also that creativity will generally need to be re-evaluated (Du Sautoy 2019; Misselhorn 2023). There are now clear indications that academic teaching and academic research are similarly under threat: We are moving towards a world where machines “read” scientific publications “do research”, and “write”, “edit” or “review” scientific publications. (Perhaps science is moving in the direction of other publication systems that are overtaken by AI-generated “slop”.)",
+   "pid": "p106",
+   "zh": "工业革命时期的经典自动化取代的是人的肌肉与体力劳动，而如今的数字自动化取代的是人的思维与智力劳动。哪些工作领域更容易被自动化，是人工智能哲学的一个问题；看来，人工智能在有规则、有模式、有规范的地方茁壮成长，尤其是在工作已经由计算机完成的地方。这样的规则与规范无处不在：律师知道如何起草合同，投资银行家懂得如何安排交易结构，土木工程师能够设计排水系统。在机器人学领域，经典的论证是机器将接管“肮脏、愚蠢、危险”（dirty, dumb and dangerous，DDD）的工作。如果一项工作遵循可被传授的 DDD 模式，人工智能就能学会它。有人论证说，律师、医生、教师这类“专业人士”的工作已成为一种过时的垄断（Susskind and Susskind 2022）。在创意产业中，人们极为担忧的是，人类创造力的价值只是被机器学习（ML）系统所剥削（Anantrasirichai and Bull 2022），而对知识产权（intellectual property rights）置若罔闻；但人们也担忧，创造力本身总体上需要被重新评估（Du Sautoy 2019; Misselhorn 2023）。如今已有明确迹象表明，学术教学与学术研究同样受到威胁：我们正走向这样一个世界——机器“阅读”科学出版物、“做研究”，并“撰写”“编辑”或“评审”科学出版物。（也许科学正在走向其他出版体系的命运——那些体系已被人工智能生成的“垃圾内容”（slop）所淹没。）",
+   "logic": [
+    "对比两次自动化：经典自动化替代体力，数字自动化替代智力劳动。",
+    "概括人工智能自动化的偏好区域：有规则、模式、规范且已计算机化的工作领域，并以法律、金融、土木为例。",
+    "引入机器人学中的 DDD（肮脏、愚蠢、危险）框架，论证可教模式即可被人工智能学会；并引述“专业垄断过时”论。",
+    "转向创意产业的双重担忧：人类创造力价值被机器学习剥削而无视知识产权，以及创造力概念本身需重估。",
+    "指出学术教学与科研同样受威胁：机器已参与阅读、研究、写作、编辑、评审，并以括号推测科学出版体系可能被人工智能生成的垃圾内容淹没。"
+   ],
+   "terms": [
+    {
+     "en": "intellectual property rights",
+     "zh": "知识产权",
+     "def": "本文指创意产业中人类创作成果的法定权益，机器学习训练与生成常被指忽视之。"
+    },
+    {
+     "en": "machine learning",
+     "zh": "机器学习",
+     "def": "见术语表；本文指被指剥削人类创造力价值的 ML 系统。"
+    }
+   ],
+   "background": [
+    {
+     "title": "DDD（“肮脏、愚蠢、危险”）工作",
+     "body": "机器人学中的经典说法，指机器首先替代的是环境恶劣、不需技巧、危险的工作岗位；本文将其推广为“可被传授的模式”。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "prone to",
+     "pos": "phr.",
+     "zh": "易于……的；倾向于……的",
+     "ex": "Which areas of work are more prone to automation"
+    },
+    {
+     "en": "thrive",
+     "pos": "v.",
+     "zh": "茁壮成长；蓬勃发展",
+     "ex": "artificial intelligence thrives where there are rules"
+    },
+    {
+     "en": "ubiquitous",
+     "pos": "adj.",
+     "zh": "无处不在的",
+     "ex": "Such rules and norms are ubiquitous"
+    },
+    {
+     "en": "take over",
+     "pos": "phr.",
+     "zh": "接管",
+     "ex": "the machines will take over the “dirty, dumb and dangerous”"
+    },
+    {
+     "en": "outdated monopoly",
+     "pos": "phr.",
+     "zh": "过时的垄断",
+     "ex": "become an outdated monopoly"
+    },
+    {
+     "en": "under threat",
+     "pos": "phr.",
+     "zh": "受到威胁",
+     "ex": "academic teaching and academic research are similarly under threat"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "AI has a long history of overestimating the impact of its technology, but in the last 5 years the majority of predictions were underestimates. E.g. many in the field were surprised about the progress of generative AI, particularly in language (ChatGPT in Nov. 2022). However, actual human jobs stubbornly turn out more complicated than estimated. E.g., in 2016, Geoffrey Hinton said “We should stop training radiologists now. It’s just completely obvious that within five years, deep learning is going to do better than radiologists.”, but it turns out that this is not true, nearly a decade later, mainly because causal modelling is difficult (Obuchowicz et al. 2025). Given the high stakes, it is difficult to find an ethically good way to combine human and machine expertise in making such medical decisions (Savulescu et al. 2024). – The revolution in physical interaction with autonomous vehicles and robotics is taking a little longer, just like it is taking longer to make robots that can play football than it took to make computers that can play chess.",
+   "html_en": "AI has a long history of overestimating the impact of its technology, but in the last 5 years the majority of predictions were underestimates. E.g. many in the field were surprised about the progress of generative AI, particularly in language (ChatGPT in Nov. 2022). However, actual human jobs stubbornly turn out more complicated than estimated. E.g., in 2016, Geoffrey Hinton said “We should stop training radiologists now. It’s just completely obvious that within five years, deep learning is going to do better than radiologists.”, but it turns out that this is not true, nearly a decade later, mainly because causal modelling is difficult (Obuchowicz et al. 2025). Given the high stakes, it is difficult to find an ethically good way to combine human and machine expertise in making such medical decisions (Savulescu et al. 2024). – The revolution in physical interaction with autonomous vehicles and robotics is taking a little longer, just like it is taking longer to make robots that can play football than it took to make computers that can play chess.",
+   "pid": "p107",
+   "zh": "人工智能历来有高估其技术影响的历史，但在过去 5 年里，大多数预测却是低估。例如，该领域许多人对生成式人工智能（generative AI）的进展感到意外，尤其是在语言方面（2022 年 11 月的 ChatGPT）。然而，真实的人类工作却顽固地比人们估计的更为复杂。例如，2016 年杰弗里·辛顿（Geoffrey Hinton）曾说：“我们现在就应该停止培训放射科医生了。完全显而易见，不出五年，深度学习（deep learning）就会做得比放射科医生更好。”但近十年后事实证明这并不成立，主要原因在于因果建模（causal modelling）十分困难（Obuchowicz et al. 2025）。鉴于利害攸关，要找到一种在这类医疗决策中结合人类与机器专长的伦理上良好的方式，十分困难（Savulescu et al. 2024）。——与物理世界互动的革命，即自动驾驶汽车与机器人技术的革命，则慢了一点，正如制造能踢足球的机器人，比制造能下棋的计算机花费了更长时间。",
+   "logic": [
+    "指出人工智能预测史的反转：过去常高估，近五年却多为低估，以生成式人工智能与 ChatGPT 为例。",
+    "以辛顿 2016 年关于放射科医生的著名预测落空为例，说明真实工作比预想复杂，根源在因果建模困难。",
+    "引出医疗决策中人机专长结合的伦理难题。",
+    "以“踢球机器人对下棋计算机”的类比，说明物理互动革命（自动驾驶、机器人）落地更慢。"
+   ],
+   "terms": [
+    {
+     "en": "generative AI",
+     "zh": "生成式人工智能",
+     "def": "指可生成文本、图像等内容的人工智能系统；2022 年底 ChatGPT 发布后进展超出多数人预期。"
+    },
+    {
+     "en": "deep learning",
+     "zh": "深度学习",
+     "def": "见术语表：辛顿曾预测其五年内超越放射科医生，后被证明不成立。"
+    },
+    {
+     "en": "causal modelling",
+     "zh": "因果建模",
+     "def": "本文指从数据中建立因果关系的方法，被认为是人工智能难以替代人类专业判断的关键难点。"
+    }
+   ],
+   "background": [
+    {
+     "title": "杰弗里·辛顿（Geoffrey Hinton）",
+     "body": "深度学习先驱，2024 年诺贝尔物理学奖得主；2016 年他曾预测深度学习五年内将超越放射科医生。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "overestimate",
+     "pos": "v.",
+     "zh": "高估",
+     "ex": "AI has a long history of overestimating the impact"
+    },
+    {
+     "en": "underestimate",
+     "pos": "n.",
+     "zh": "低估",
+     "ex": "the majority of predictions were underestimates"
+    },
+    {
+     "en": "stubbornly",
+     "pos": "adv.",
+     "zh": "顽固地；倔强地",
+     "ex": "actual human jobs stubbornly turn out more complicated"
+    },
+    {
+     "en": "turn out",
+     "pos": "phr.",
+     "zh": "结果是",
+     "ex": "it turns out that this is not true"
+    },
+    {
+     "en": "high stakes",
+     "pos": "phr.",
+     "zh": "利害攸关",
+     "ex": "Given the high stakes"
+    },
+    {
+     "en": "combine",
+     "pos": "v.",
+     "zh": "结合",
+     "ex": "combine human and machine expertise"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "For the labour market, the main question is: Is it different, this time? Will the creation of new jobs and wealth keep up with the destruction of jobs? And even if it is not different, what are the transition costs, and who bears them? Do we need to make societal adjustments for a fair distribution of costs and benefits of digital automation? – Perhaps enormous productivity gains will allow an “age of leisure” to be realised, something (Keynes 1930) had predicted to occur around 2030, assuming a growth rate of 1% per annum? Actually, we have already reached the level he anticipated for 2030, but we are still working. Harari explains how this economical development allowed humanity to overcome hunger, disease and war – and now we aim for immortality and eternal bliss through AI, thus his book title Homo Deus (Harari 2016, 75 etc.). The question remains whether an age of leisure is desirable, and how we would live in such an age.",
+   "html_en": "For the labour market, the main question is: Is it different, this time? Will the creation of new jobs and wealth keep up with the destruction of jobs? And even if it is <em>not</em> different, what are the transition costs, and who bears them? Do we need to make societal adjustments for a fair distribution of costs and benefits of digital automation? – Perhaps enormous productivity gains will allow an “age of leisure” to be realised, something (Keynes 1930) had predicted to occur around 2030, assuming a growth rate of 1% per annum? Actually, we have already reached the level he anticipated for 2030, but we are still working. Harari explains how this economical development allowed humanity to overcome hunger, disease and war – and now we aim for immortality and eternal bliss through AI, thus his book title <em>Homo Deus</em> (Harari 2016, 75 etc.). The question remains whether an age of leisure is desirable, and how we would live in such an age.",
+   "pid": "p108",
+   "zh": "对劳动力市场而言，主要问题是：这一次会不同吗？新工作与新财富的创造，能否跟得上工作的毁灭？即使这一次并无不同，转型成本是什么，又由谁来承担？我们是否需要作出社会调整，以公平分配数字自动化的成本与收益？——或许，巨大的生产率提升将使一个“闲暇时代”（age of leisure）得以实现，而凯恩斯（Keynes 1930）曾预测这大约会在 2030 年到来，前提是年增长率为 1%？事实上，我们已经达到了他为 2030 年所预期的水平，但我们仍在工作。赫拉利（Harari）解释了这种经济发展如何使人类克服了饥饿、疾病与战争——而如今我们通过人工智能追求不朽与永恒的极乐，这正是其著作《未来简史》（Homo Deus）书名的由来（Harari 2016, 75 等）。问题仍然在于：闲暇时代是否可欲（desirable），以及我们将如何生活在这样一个时代。",
+   "logic": [
+    "以一连串追问收束劳动力市场议题：这次是否不同、新旧创造能否抵消、转型成本由谁承担、是否需社会调整。",
+    "引入凯恩斯“闲暇时代”预测（2030 年、年增 1%），并以“已达水平却仍在工作”的反讽指出其未实现。",
+    "引赫拉利的叙事：经济发展使人类克服饥饿、疾病与战争，如今则借人工智能追求不朽极乐（《未来简史》）。",
+    "以哲学追问收束：闲暇时代本身是否可欲、如何生活其中。"
+   ],
+   "terms": [
+    {
+     "en": "age of leisure",
+     "zh": "闲暇时代",
+     "def": "凯恩斯 1930 年预言的自动化使劳动时间大幅缩减的未来社会状态。"
+    }
+   ],
+   "background": [
+    {
+     "title": "约翰·梅纳德·凯恩斯（John Maynard Keynes）",
+     "body": "英国经济学家，1930 年《我们后代的经济前景》预测：在年增 1% 前提下，百年后将迎来每周约 15 小时工作制的“闲暇时代”。"
+    },
+    {
+     "title": "尤瓦尔·赫拉利（Yuval Noah Harari）",
+     "body": "以色列历史学家，2016 年《未来简史》（Homo Deus）描绘人类借技术走向“神人”的未来。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "keep up with",
+     "pos": "phr.",
+     "zh": "跟上",
+     "ex": "keep up with the destruction of jobs"
+    },
+    {
+     "en": "transition cost",
+     "pos": "phr.",
+     "zh": "转型成本",
+     "ex": "what are the transition costs"
+    },
+    {
+     "en": "bear",
+     "pos": "v.",
+     "zh": "承担",
+     "ex": "who bears them"
+    },
+    {
+     "en": "per annum",
+     "pos": "phr.",
+     "zh": "每年",
+     "ex": "a growth rate of 1% per annum"
+    },
+    {
+     "en": "desirable",
+     "pos": "adj.",
+     "zh": "可欲的；值得欲求的",
+     "ex": "whether an age of leisure is desirable"
+    }
+   ]
+  },
+  {
+   "kind": "heading",
+   "text_en": "2.10 AI Policy",
+   "level": 3,
+   "id": "AIPol",
+   "num": "2.10",
+   "title_en": "AI Policy",
+   "title_zh": "人工智能政策"
+  },
+  {
+   "kind": "p",
+   "text_en": "In our context, “policy” is the general name for measures that states or other organisations take to support a politically desirable impact; it can take many forms, though it is often rule-based, e.g. tax breaks on home-building will encourage citizens to build their own homes. Such policy is driven by all sorts of political aims, but many of these will be motivated by “ethics”, e.g. justice or positive impact for vulnerable people.",
+   "html_en": "In our context, “policy” is the general name for measures that states or other organisations take to support a politically desirable impact; it can take many forms, though it is often rule-based, e.g. tax breaks on home-building will encourage citizens to build their own homes. Such policy is driven by all sorts of political aims, but many of these will be motivated by “ethics”, e.g. justice or positive impact for vulnerable people.",
+   "pid": "p109",
+   "zh": "在我们的语境中，“政策”（policy）是一个统称，指国家或其他组织为支持某种政治上可欲的影响而采取的措施；它可以采取多种形式，不过通常是基于规则的，例如对建房给予税收减免，将鼓励公民建造自己的住房。这样的政策由各种各样的政治目标驱动，但其中许多目标将以“伦理”为动机，例如正义，或对弱势群体的积极影响。",
+   "logic": [
+    "界定本文语境中“政策”的含义：国家或组织为达成政治上可欲影响而采取的措施。",
+    "说明政策的常见形式（基于规则）并举例（建房税收减免）。",
+    "指出政策背后的政治目标中许多以伦理为动机（正义、惠及弱势群体）。"
+   ],
+   "terms": [
+    {
+     "en": "policy",
+     "zh": "政策",
+     "def": "本文指国家或组织为支持政治上可欲影响而采取的措施，常以规则形式出现，背后多有伦理动机。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "measure",
+     "pos": "n.",
+     "zh": "措施",
+     "ex": "measures that states or other organisations take"
+    },
+    {
+     "en": "desirable",
+     "pos": "adj.",
+     "zh": "可欲的；值得欲求的",
+     "ex": "a politically desirable impact"
+    },
+    {
+     "en": "rule-based",
+     "pos": "adj.",
+     "zh": "基于规则的",
+     "ex": "it is often rule-based"
+    },
+    {
+     "en": "tax break",
+     "pos": "phr.",
+     "zh": "税收减免",
+     "ex": "tax breaks on home-building"
+    },
+    {
+     "en": "vulnerable",
+     "pos": "adj.",
+     "zh": "弱势的；脆弱的",
+     "ex": "positive impact for vulnerable people"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "In the history of AI policy, there was a phase in around 2015–20 when many organisations, including national governments, the UN, OECD and EU, felt the need to formulate “ethical principles”, and many philosophers were involved in this work. The next phase of actual policy will involve stakeholders and a few experts on technology and ethics, as well as lawyers who actually formulate the laws and regulations – the attention given to philosophical work in that phase is much reduced, but much of it still runs under the heading of “AI ethics”.",
+   "html_en": "In the history of AI policy, there was a phase in around 2015–20 when many organisations, including national governments, the UN, OECD and EU, felt the need to formulate “ethical principles”, and many philosophers were involved in this work. The next phase of actual policy will involve stakeholders and a few experts on technology and ethics, as well as lawyers who actually formulate the laws and regulations – the attention given to philosophical work in that phase is much reduced, but much of it still runs under the heading of “AI ethics”.",
+   "pid": "p110",
+   "zh": "在人工智能政策史上，2015 至 2020 年前后有一个阶段，许多组织——包括各国政府、联合国、经合组织（OECD）和欧盟——都感到有必要制定“伦理原则”（ethical principles），许多哲学家参与了这项工作。下一阶段的实际政策制定将涉及利益相关者（stakeholders）和少数技术与伦理专家，以及真正起草法律与法规的律师——在这一阶段，哲学工作所受到的关注大幅减少，但其中大部分仍打着“人工智能伦理”的旗号进行。",
+   "logic": [
+    "回顾人工智能政策史第一阶段（约 2015–2020）：众多国家与国际组织制定伦理原则，哲学家深度参与。",
+    "描述第二阶段：转向利益相关者、专家与律师主导的实际立法，哲学关注大幅减退，但仍冠“人工智能伦理”之名。"
+   ],
+   "terms": [
+    {
+     "en": "ethical principles",
+     "zh": "伦理原则",
+     "def": "本文指 2015–2020 年间各组织制定的人工智能伦理宣示性准则，后转入实际立法阶段。"
+    }
+   ],
+   "background": [
+    {
+     "title": "经济合作与发展组织（OECD）",
+     "body": "主要市场经济国家组成的国际组织，2019 年率先推出政府间《人工智能原则》，并自 2020 年起追踪全球人工智能政策活动。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "formulate",
+     "pos": "v.",
+     "zh": "制定；系统表述",
+     "ex": "felt the need to formulate “ethical principles”"
+    },
+    {
+     "en": "phase",
+     "pos": "n.",
+     "zh": "阶段",
+     "ex": "there was a phase in around 2015–20"
+    },
+    {
+     "en": "stakeholder",
+     "pos": "n.",
+     "zh": "利益相关者",
+     "ex": "will involve stakeholders and a few experts"
+    },
+    {
+     "en": "laws and regulations",
+     "pos": "phr.",
+     "zh": "法律法规",
+     "ex": "the laws and regulations"
+    },
+    {
+     "en": "run under",
+     "pos": "phr.",
+     "zh": "以……为名义进行",
+     "ex": "runs under the heading of “AI ethics”"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "Among philosophers there is still some discussion about the value of “ethical principles” for AI, for example the five principles, based on the classic four “middle principles” in bioethics (Beauchamp and Childress 2013): (1) beneficence, (2) non-maleficence, (3) autonomy, and (4) justice, plus (5) explicability (Floridi and Cowls 2019). The initiative “Artificial Intelligence for Social Good” (AI4SG) suggests seven – quite different – principles: (1) falsifiability and incremental deployment; (2) safeguards against the manipulation of predictors; (3) receiver-contextualised intervention; (4) receiver-contextualised explanation and transparent purposes; (5) privacy protection and data subject consent; (6) situational fairness; and (7) human-friendly “semanticisation” (Floridi et al. 2020; Floridi 2023b). The discussion on principles and guidelines ranges from the view that they are meaningless, toothless and politically harmful (Munn 2023), to useful “work in progress” (Lundgren 2023) towards operationalisation (Stix 2021; Bleher and Braun 2023; Taddeo, Blanchard, and Thomas 2024), software engineering (Antikainen et al. 2021), and a systemic approach (Wang and Blok 2025).",
+   "html_en": "Among philosophers there is still some discussion about the value of “ethical principles” for AI, for example the five principles, based on the classic four “middle principles” in bioethics (Beauchamp and Childress 2013): (1) beneficence, (2) non-maleficence, (3) autonomy, and (4) justice, plus (5) explicability (Floridi and Cowls 2019). The initiative “Artificial Intelligence for Social Good” (AI4SG) suggests seven – quite different – principles: (1) falsifiability and incremental deployment; (2) safeguards against the manipulation of predictors; (3) receiver-contextualised intervention; (4) receiver-contextualised explanation and transparent purposes; (5) privacy protection and data subject consent; (6) situational fairness; and (7) human-friendly “semanticisation” (Floridi et al. 2020; Floridi 2023b). The discussion on principles and guidelines ranges from the view that they are meaningless, toothless and politically harmful (Munn 2023), to useful “work in progress” (Lundgren 2023) towards operationalisation (Stix 2021; Bleher and Braun 2023; Taddeo, Blanchard, and Thomas 2024), software engineering (Antikainen et al. 2021), and a systemic approach (Wang and Blok 2025).",
+   "pid": "p111",
+   "zh": "哲学家中仍在讨论“伦理原则”对人工智能的价值。例如有五项原则，它以生命伦理学中经典的四项“中层原则”（middle principles）为基础（Beauchamp and Childress 2013）：（1）行善（beneficence）、（2）不伤害（non-maleficence）、（3）自主（autonomy）、（4）正义（justice），外加（5）可说明性（explicability）（Floridi and Cowls 2019）。“人工智能促进社会公益”（Artificial Intelligence for Social Good，AI4SG）倡议则提出七项——相当不同的——原则：（1）可证伪性与渐进部署；（2）针对预测变量被操纵的保障措施；（3）接收者情境化干预；（4）接收者情境化解释与透明目的；（5）隐私保护与数据主体同意；（6）情境性公平；以及（7）对人友好的“语义化”（semanticisation）（Floridi et al. 2020; Floridi 2023b）。围绕原则与指南的讨论，从认为它们毫无意义、软弱无力（toothless）且在政治上有害的观点（Munn 2023），到认为它们是迈向可操作化（operationalisation）（Stix 2021; Bleher and Braun 2023; Taddeo, Blanchard, and Thomas 2024）、软件工程（Antikainen et al. 2021）和系统性进路（Wang and Blok 2025）的有用“在制品”（Lundgren 2023），立场不等。",
+   "logic": [
+    "介绍以生命伦理四原则为蓝本的人工智能五原则（行善、不伤害、自主、正义、可说明性）。",
+    "介绍 AI4SG 倡议的七项不同原则清单。",
+    "勾勒对原则/指南的评价光谱：从“无意义、无牙、政治有害”的批判，到“有用的在制品、迈向可操作化”的肯定。"
+   ],
+   "terms": [
+    {
+     "en": "beneficence / non-maleficence",
+     "zh": "行善 / 不伤害",
+     "def": "生命伦理学“中层原则”中的两项：促成善举、避免伤害，后被人工智能伦理借鉴。"
+    },
+    {
+     "en": "explicability",
+     "zh": "可说明性",
+     "def": "本文指人工智能系统对其决策提供理由说明的要求，作为新增的第五项原则。"
+    },
+    {
+     "en": "operationalisation",
+     "zh": "可操作化",
+     "def": "指将抽象伦理原则转化为可执行规范与工程实践的过程，是评价原则价值的关键维度。"
+    }
+   ],
+   "background": [
+    {
+     "title": "生命伦理学四原则",
+     "body": "由 Beauchamp 与 Childress 在《生物医学伦理学原则》中提出，即尊重自主、不伤害、行善、正义，后被人工智能伦理借鉴扩展为五项。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "based on",
+     "pos": "phr.",
+     "zh": "以……为基础",
+     "ex": "based on the classic four “middle principles”"
+    },
+    {
+     "en": "incremental",
+     "pos": "adj.",
+     "zh": "渐进的",
+     "ex": "falsifiability and incremental deployment"
+    },
+    {
+     "en": "safeguard",
+     "pos": "n.",
+     "zh": "保障措施",
+     "ex": "safeguards against the manipulation of predictors"
+    },
+    {
+     "en": "toothless",
+     "pos": "adj.",
+     "zh": "无牙的；软弱无力的",
+     "ex": "meaningless, toothless and politically harmful"
+    },
+    {
+     "en": "guidelines",
+     "pos": "n.",
+     "zh": "指南",
+     "ex": "The discussion on principles and guidelines ranges"
+    },
+    {
+     "en": "consent",
+     "pos": "n.",
+     "zh": "同意",
+     "ex": "privacy protection and data subject consent"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "Current AI policy activities worldwide have been surveyed by the OECD AI Policy Observatory since 2020. For activities prior to 2020, see (Jobin, Ienca, and Vayena 2019), and the useful history in (Smuha 2021b). The basic handbook is now (Bullock et al. 2024).",
+   "html_en": "Current AI policy activities worldwide have been surveyed by the <a href=\"https://oecd.ai/\" data-ext=\"1\">OECD AI Policy Observatory</a> since 2020. For activities prior to 2020, see (Jobin, Ienca, and Vayena 2019), and the useful history in (Smuha 2021b). The basic handbook is now (Bullock et al. 2024).",
+   "pid": "p112",
+   "zh": "自 2020 年起，经合组织人工智能政策观察站（OECD AI Policy Observatory）对全球当前的人工智能政策活动进行了调查。关于 2020 年以前的活动，见（Jobin, Ienca, and Vayena 2019），以及（Smuha 2021b）中有益的历史梳理。基础性的手册如今是（Bullock et al. 2024）。",
+   "logic": [
+    "指引文献来源：指出经合组织人工智能政策观察站自 2020 年起系统调查全球人工智能政策活动。",
+    "分别给出 2020 年以前活动的研究与基础手册的文献指引。"
+   ],
+   "terms": [
+    {
+     "en": "OECD AI Policy Observatory",
+     "zh": "经合组织人工智能政策观察站",
+     "def": "本文指经合组织下设机制，自 2020 年起系统追踪全球各国人工智能政策活动。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "survey",
+     "pos": "v.",
+     "zh": "调查；综述",
+     "ex": "have been surveyed by the OECD AI Policy Observatory"
+    },
+    {
+     "en": "prior to",
+     "pos": "phr.",
+     "zh": "在……之前",
+     "ex": "For activities prior to 2020"
+    },
+    {
+     "en": "handbook",
+     "pos": "n.",
+     "zh": "手册",
+     "ex": "The basic handbook is now"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "The most influential policy tools are the OECD AI Principles for a “human-centric approach to artificial intelligence” (originally adopted in 2019 and updated in 2024). These focus on: (1) Inclusive growth, sustainable development and well-being, (2) Respect for the rule of law, human rights and democratic values, including fairness and privacy, (3) Transparency and explainability, (4) Robustness, security and safety, and (5) Accountability. OECD policy is now developed with the Global Partnership on AI (GPAI), which was founded in 2022 to advise global governments on AI regulation.",
+   "html_en": "The most influential policy tools are the <a href=\"https://oecd.ai/en/ai-principles\" data-ext=\"1\">OECD AI Principles</a> for a “human-centric approach to artificial intelligence” (originally adopted in 2019 and updated in 2024). These focus on: (1) Inclusive growth, sustainable development and well-being, (2) Respect for the rule of law, human rights and democratic values, including fairness and privacy, (3) Transparency and explainability, (4) Robustness, security and safety, and (5) Accountability. OECD policy is now developed with the <a href=\"https://gpai.ai\" data-ext=\"1\">Global Partnership on AI</a> (GPAI), which was founded in 2022 to advise global governments on AI regulation.",
+   "pid": "p113",
+   "zh": "最具影响力的政策工具，是经合组织的《人工智能原则》（OECD AI Principles），其主张“以人为本的人工智能进路”（human-centric approach to artificial intelligence）（最初于 2019 年通过，2024 年更新）。这些原则聚焦于：（1）包容性增长、可持续发展与福祉；（2）尊重法治、人权与民主价值，包括公平与隐私；（3）透明性与可解释性；（4）稳健性、安保与安全；（5）问责性（accountability）。经合组织的政策如今与“全球人工智能伙伴关系”（Global Partnership on AI，GPAI）共同制定，该伙伴关系成立于 2022 年，旨在就人工智能监管向全球各国政府提供建议。",
+   "logic": [
+    "指出经合组织《人工智能原则》是全球最具影响力的政策工具，给出其通过与更新年份。",
+    "逐条列出该原则的五大聚焦领域。",
+    "说明经合组织政策如今与 2022 年成立的全球人工智能伙伴关系协作，为各国政府提供人工智能监管咨询。"
+   ],
+   "terms": [
+    {
+     "en": "OECD AI Principles",
+     "zh": "经合组织《人工智能原则》",
+     "def": "2019 年通过、2024 年更新的政府间人工智能政策原则，主张“以人为本的人工智能进路”。"
+    },
+    {
+     "en": "Global Partnership on AI (GPAI)",
+     "zh": "全球人工智能伙伴关系",
+     "def": "2022 年成立的国际组织，旨在就人工智能监管向全球各国政府提供建议。"
+    },
+    {
+     "en": "accountability",
+     "zh": "问责（性）",
+     "def": "见术语表：列为经合组织人工智能原则五大聚焦领域之一。"
+    }
+   ],
+   "background": [],
+   "vocab": [
+    {
+     "en": "influential",
+     "pos": "adj.",
+     "zh": "有影响的",
+     "ex": "The most influential policy tools are the OECD AI Principles"
+    },
+    {
+     "en": "adopt",
+     "pos": "v.",
+     "zh": "通过；采纳",
+     "ex": "originally adopted in 2019"
+    },
+    {
+     "en": "inclusive growth",
+     "pos": "phr.",
+     "zh": "包容性增长",
+     "ex": "Inclusive growth, sustainable development and well-being"
+    },
+    {
+     "en": "transparency",
+     "pos": "n.",
+     "zh": "透明性",
+     "ex": "Transparency and explainability"
+    },
+    {
+     "en": "advise",
+     "pos": "v.",
+     "zh": "提供建议",
+     "ex": "to advise global governments on AI regulation"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "The most advanced legal regulation exists in the EU, with the hope of a “Brussels Effect”, as with the General Data Protection Regulation (GDPR 2016): To lead the world on regulation (Lundgren et al. 2024). The AI regulation itself goes back to the “High-level expert group on AI”, which produced several relevant reports (AI HLEG 2019). The main component of this legal framework is the AI Act (EU Parliament 2024), which legally regulates AI applications by their risk, graded at five levels: unacceptable/high/general/limited/minimal. This includes risks in a consequentialist sense, as well as “risks to rights”. Wider policy concerns for the digital world that are strongly relevant for AI and robotics are laid down in the 2022 Digital Markets Act (EU Parliament 2022a), e.g. on monopolies of digital platforms and fair competition, and the 2022 Digital Services Act (EU Parliament 2022b), e.g. on disinformation and illegal content.",
+   "html_en": "The most advanced legal regulation exists in the EU, with the hope of a “Brussels Effect”, as with the <em>General Data Protection Regulation</em> (GDPR 2016): To lead the world on regulation (Lundgren et al. 2024). The AI regulation itself goes back to the “High-level expert group on AI”, which produced several relevant reports (AI HLEG 2019). The main component of this legal framework is the AI Act (EU Parliament 2024), which legally regulates AI applications by their risk, graded at five levels: unacceptable/high/general/limited/minimal. This includes risks in a consequentialist sense, as well as “risks to rights”. Wider policy concerns for the digital world that are strongly relevant for AI and robotics are laid down in the 2022 Digital Markets Act (EU Parliament 2022a), e.g. on monopolies of digital platforms and fair competition, and the 2022 Digital Services Act (EU Parliament 2022b), e.g. on disinformation and illegal content.",
+   "pid": "p114",
+   "zh": "最先进的法律监管存在于欧盟之中，其期望获得一种“布鲁塞尔效应”（Brussels Effect），正如《通用数据保护条例》（GDPR，2016）所做的那样：在监管上引领世界（Lundgren et al. 2024）。人工智能监管本身可追溯至“人工智能高级别专家组”，该专家组产出了数份相关报告（AI HLEG 2019）。这一法律框架的主要组成部分是《人工智能法案》（AI Act，欧盟议会 2024 年），它按风险等级对人工智能应用进行法律监管，风险分为五级：不可接受／高／一般／有限／最小。这既包括后果论（consequentialism）意义上的风险，也包括“对权利的风险”。对数字世界更广泛的、与人工智能和机器人学密切相关的政策关切，载于 2022 年《数字市场法案》（Digital Markets Act，欧盟议会 2022a），例如关于数字平台垄断与公平竞争的规定；以及 2022 年《数字服务法案》（Digital Services Act，欧盟议会 2022b），例如关于虚假信息与非法内容的规定。",
+   "logic": [
+    "指出欧盟拥有最先进的人工智能法律监管，其目标是复制《通用数据保护条例》的“布鲁塞尔效应”、引领全球监管。",
+    "追溯欧盟人工智能监管的起源（高级别专家组报告）。",
+    "介绍核心立法《人工智能法案》：按五级风险分级监管，涵盖后果论风险与权利风险。",
+    "补充同属欧盟数字监管框架的《数字市场法案》与《数字服务法案》及其各自关切。"
+   ],
+   "terms": [
+    {
+     "en": "Brussels Effect",
+     "zh": "布鲁塞尔效应",
+     "def": "本文指欧盟凭借其庞大市场规模，迫使全球企业按欧盟标准合规、从而影响世界监管规则的现象。"
+    },
+    {
+     "en": "AI Act",
+     "zh": "《人工智能法案》",
+     "def": "欧盟 2024 年通过的人工智能法律，按风险五级（不可接受/高/一般/有限/最小）监管人工智能应用。"
+    },
+    {
+     "en": "consequentialism",
+     "zh": "后果论",
+     "def": "见术语表；本段指人工智能风险分级中的后果论维度，与“对权利的风险”并列。"
+    }
+   ],
+   "background": [
+    {
+     "title": "《通用数据保护条例》（GDPR）",
+     "body": "欧盟 2016 年通过的数据保护立法，其严苛规则被全球企业普遍遵循，成为“布鲁塞尔效应”的标志性先例。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "legal regulation",
+     "pos": "phr.",
+     "zh": "法律监管",
+     "ex": "The most advanced legal regulation exists in the EU"
+    },
+    {
+     "en": "go back to",
+     "pos": "phr.",
+     "zh": "追溯至",
+     "ex": "goes back to the “High-level expert group on AI”"
+    },
+    {
+     "en": "grade",
+     "pos": "v.",
+     "zh": "分级",
+     "ex": "graded at five levels"
+    },
+    {
+     "en": "lay down",
+     "pos": "phr.",
+     "zh": "规定；载明",
+     "ex": "are laid down in the 2022 Digital Markets Act"
+    },
+    {
+     "en": "disinformation",
+     "pos": "n.",
+     "zh": "虚假信息",
+     "ex": "on disinformation and illegal content"
+    }
+   ]
+  },
+  {
+   "kind": "p",
+   "text_en": "There is now a host of regulation relevant to AI and robotics in most nation states, though the approaches differ substantially, from libertarian support of free market (and Hobbes’ “war of all against all”) to state control. Industry sometimes claims that regulation stifles innovation and sometimes demands regulatory “guardrails”. The hopes for a world-wide regulation, as envisaged through GPAI and OECD, now seem low, since several state actors, especially the USA and China, are more interested in competitive advantage. Having said that, there is now a series of AI Safety Summits on the highest governmental level (Paris 2025, Seoul 2024, Bletchley Park 2023), the AI4People summits of the EU, the AI4Good summits of the ITU, etc. – so the issues of AI policy remain on the agenda of world politics.",
+   "html_en": "There is now a host of regulation relevant to AI and robotics in most nation states, though the approaches differ substantially, from libertarian support of free market (and Hobbes’ “war of all against all”) to state control. Industry sometimes claims that regulation stifles innovation and sometimes demands regulatory “guardrails”. The hopes for a world-wide regulation, as envisaged through GPAI and OECD, now seem low, since several state actors, especially the USA and China, are more interested in competitive advantage. Having said that, there is now a series of AI Safety Summits on the highest governmental level (Paris 2025, Seoul 2024, Bletchley Park 2023), the AI4People summits of the EU, the AI4Good summits of the ITU, etc. – so the issues of AI policy remain on the agenda of world politics.",
+   "pid": "p115",
+   "zh": "如今，在大多数民族国家中已有大量与人工智能和机器人学相关的监管，尽管各进路差异甚大——从自由主义对自由市场的支持（以及霍布斯所说的“一切人反对一切人的战争”），到国家控制。产业界时而声称监管扼杀创新，时而又要求监管“护栏”（guardrails）。经由 GPAI 与 OECD 所设想的全球监管，如今希望渺茫，因为若干国家行动者——尤其是美国与中国——更关心竞争优势。话虽如此，如今已出现一系列政府最高级别的人工智能安全峰会（2023 年布莱切利园、2024 年首尔、2025 年巴黎），欧盟的 AI4People 峰会，国际电信联盟（ITU）的 AI4Good 峰会等等——可见人工智能政策的议题仍留在世界政治的议程上。",
+   "logic": [
+    "概览各国人工智能监管现状：数量众多但进路分歧，跨度从自由市场（霍布斯式“一切人反对一切人的战争”）到国家控制。",
+    "刻画产业界的矛盾立场：时而称监管扼杀创新，时而要求监管“护栏”。",
+    "指出全球统一监管希望渺茫，因美中等大国更重竞争优势。",
+    "转而列举系列政府级人工智能安全峰会，说明人工智能政策仍稳居世界政治议程。"
+   ],
+   "terms": [
+    {
+     "en": "guardrails",
+     "zh": "护栏",
+     "def": "本文指产业界所要求的、有限且有弹性的监管框架。"
+    },
+    {
+     "en": "libertarianism",
+     "zh": "自由主义",
+     "def": "本文指支持自由市场、反对国家干预的立场，被类比为霍布斯“一切人反对一切人的战争”。"
+    }
+   ],
+   "background": [
+    {
+     "title": "托马斯·霍布斯（Thomas Hobbes, 1588–1679）",
+     "body": "英国政治哲学家，《利维坦》中把无政府的自然状态称为“一切人反对一切人的战争”。"
+    },
+    {
+     "title": "人工智能安全峰会（AI Safety Summits）",
+     "body": "在布莱切利园（2023）、首尔（2024）、巴黎（2025）举行的政府最高级别人工智能安全会议系列。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "a host of",
+     "pos": "phr.",
+     "zh": "大量",
+     "ex": "There is now a host of regulation relevant to AI and robotics"
+    },
+    {
+     "en": "stifle",
+     "pos": "v.",
+     "zh": "扼杀；抑制",
+     "ex": "regulation stifles innovation"
+    },
+    {
+     "en": "competitive advantage",
+     "pos": "phr.",
+     "zh": "竞争优势",
+     "ex": "more interested in competitive advantage"
+    },
+    {
+     "en": "having said that",
+     "pos": "phr.",
+     "zh": "话虽如此",
+     "ex": "Having said that, there is now a series"
+    },
+    {
+     "en": "on the agenda",
+     "pos": "phr.",
+     "zh": "在议程上",
+     "ex": "remain on the agenda of world politics"
+    }
+   ]
+  },
+  {
+   "kind": "heading",
+   "text_en": "3. Closing Note",
+   "level": 2,
+   "id": "CloNot",
+   "num": "3",
+   "title_en": "Closing Note",
+   "title_zh": "结语"
+  },
+  {
+   "kind": "p",
+   "text_en": "The problems of the very concept of AI through computation have played a prominent role with several sections here, from privacy and manipulation, to politics, to superintelligence. It is remarkable how imagination or “vision” has played a central role since the very beginning of the discipline at the “Dartmouth Summer Research Project” (McCarthy et al. 1955; Simon and Newell 1958). And the evaluation of this vision is subject to dramatic change: In a few decades, we went from the slogans “AI is impossible” (Dreyfus 1972) and “AI is just automation” (Lighthill 1973) to “AI will solve all problems” (Kurzweil 1999), “AI may well kill us all” (Bostrom 2014), and “we know how to build AGI” (Altman 2025). This created media attention and PR efforts, but it also raises the problem how much of this “philosophy and ethics of AI” is really about AI, rather than about an imagined technology. – As we said at the outset, AI and robotics have raised fundamental questions about what we should do with these systems, what the systems themselves should do, and what risks they have in the long term. They also challenge the human view of humanity as the intelligent and dominant species on Earth. We have seen issues that have been raised, and we will have to analyse technological and social developments closely to learn for traditional problems of philosophy, and to help develop a positive vision for human society with AI and robotics.",
+   "html_en": "The problems of the very concept of AI through computation have played a prominent role with several sections here, from privacy and manipulation, to politics, to superintelligence. It is remarkable how imagination or “vision” has played a central role since the very beginning of the discipline at the “Dartmouth Summer Research Project” (McCarthy et al. 1955; Simon and Newell 1958). And the evaluation of this vision is subject to dramatic change: In a few decades, we went from the slogans “AI is impossible” (Dreyfus 1972) and “AI is just automation” (Lighthill 1973) to “AI will solve all problems” (Kurzweil 1999), “AI may well kill us all” (Bostrom 2014), and “we know how to build AGI” (Altman 2025). This created media attention and PR efforts, but it also raises the problem how much of this “philosophy and ethics of AI” is really about AI, rather than about an imagined technology. – As we said at the outset, AI and robotics have raised fundamental questions about what we should do with these systems, what the systems themselves should do, and what risks they have in the long term. They also challenge the human view of humanity as the intelligent and dominant species on Earth. We have seen issues that have been raised, and we will have to analyse technological and social developments closely to learn for traditional problems of philosophy, and to help develop a positive vision for human society with AI and robotics.",
+   "pid": "p116",
+   "zh": "人工智能这一通过计算来界定的概念本身所带来的种种问题，在本词条若干章节中都扮演了突出角色——从隐私与操纵，到政治，再到超级智能（superintelligence）。值得注意的是，自该学科在“达特茅斯暑期研究项目”（Dartmouth Summer Research Project）发轫之初，想象力或“愿景”就扮演了核心角色（McCarthy et al. 1955; Simon and Newell 1958）。而对这一愿景的评价，则经历了剧烈变化：在短短数十年间，我们从“人工智能不可能”（Dreyfus 1972）和“人工智能不过是自动化”（Lighthill 1973）的口号，走到了“人工智能将解决一切问题”（Kurzweil 1999）、“人工智能很可能把我们全部杀死”（Bostrom 2014），以及“我们知道如何建造通用人工智能（AGI）”（Altman 2025）。这带来了媒体关注与公关努力，但也提出了一个问题：这种“人工智能哲学与伦理学”究竟有多少真正关乎人工智能本身，而非关乎一种想象出来的技术？——正如我们在开篇所说，人工智能与机器人学提出了一些根本问题：我们应当如何对待这些系统、这些系统自身应当做什么、以及它们长期来看有何种风险。它们也挑战着人类把自身视为地球上智能的、占支配地位的物种这一观点。我们已经看到了被提出的种种问题；我们将不得不密切分析技术与社会的发展，以回授哲学的传统问题，并帮助为人与人工智能、机器人共存的人类社会发展出一种积极的愿景。",
+   "logic": [
+    "总括全词条：“人工智能即计算”这一概念问题贯穿隐私、操纵、政治、超级智能等各节。",
+    "指出自学科诞生（达特茅斯会议）起，“愿景/想象力”即居核心，而对愿景的评价数十年间剧烈反转。",
+    "以一系列口号从悲观到过度乐观的光谱，揭示媒体与公关驱动的摇摆，并反问该领域究竟研究人工智能还是想象中的技术。",
+    "回扣开篇三大根本问题（应如何对待系统、系统应做什么、长期风险），并指出人工智能挑战人类作为智能支配物种的自我理解。",
+    "收束：须密切分析技术与社会发展，回授哲学传统问题，共建人与人工智能、机器人共存的积极愿景。"
+   ],
+   "terms": [
+    {
+     "en": "Dartmouth Summer Research Project",
+     "zh": "达特茅斯暑期研究项目",
+     "def": "1956 年夏召开的研讨会，麦卡锡等人在此提出“人工智能”一词，被视为该学科诞生标志。"
+    },
+    {
+     "en": "AGI",
+     "zh": "通用人工智能（AGI）",
+     "def": "见术语表：Altman 2025 年的口号称“我们知道如何建造 AGI”。"
+    },
+    {
+     "en": "superintelligence",
+     "zh": "超级智能",
+     "def": "见术语表：本文各章讨论的极端愿景之一，Bostrom 2014 年的代表口号是“人工智能很可能把我们全部杀死”。"
+    }
+   ],
+   "background": [
+    {
+     "title": "达特茅斯暑期研究项目（Dartmouth Summer Research Project）",
+     "body": "1956 年夏在达特茅斯学院召开，麦卡锡等人在此提出“人工智能”一词，被视为该学科的诞生标志。"
+    },
+    {
+     "title": "休伯特·德雷福斯（Hubert Dreyfus）",
+     "body": "美国哲学家，1972 年出版《计算机不能做什么》，从现象学立场批判人工智能的早期乐观主义。"
+    },
+    {
+     "title": "雷·库兹韦尔（Ray Kurzweil）",
+     "body": "技术未来学家，“奇点临近”论的著名倡导者，代表口号是“人工智能将解决一切问题”。"
+    },
+    {
+     "title": "尼克·波斯特洛姆（Nick Bostrom）",
+     "body": "牛津大学哲学家，2014 年《超级智能》作者，提出人工智能存在性风险论证。"
+    }
+   ],
+   "vocab": [
+    {
+     "en": "prominent",
+     "pos": "adj.",
+     "zh": "突出的",
+     "ex": "have played a prominent role with several sections"
+    },
+    {
+     "en": "subject to",
+     "pos": "phr.",
+     "zh": "受制于；经历",
+     "ex": "is subject to dramatic change"
+    },
+    {
+     "en": "slogan",
+     "pos": "n.",
+     "zh": "口号",
+     "ex": "we went from the slogans"
+    },
+    {
+     "en": "raise fundamental questions",
+     "pos": "phr.",
+     "zh": "提出根本问题",
+     "ex": "have raised fundamental questions about"
+    },
+    {
+     "en": "at the outset",
+     "pos": "phr.",
+     "zh": "在开篇",
+     "ex": "As we said at the outset"
+    },
+    {
+     "en": "dominant",
+     "pos": "adj.",
+     "zh": "占支配地位的",
+     "ex": "the intelligent and dominant species on Earth"
+    }
+   ]
+  }
+ ]
+}

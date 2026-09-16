@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# QA / 临时构建产物
+_final-check.html
+_final-probe.html
+_shots/
