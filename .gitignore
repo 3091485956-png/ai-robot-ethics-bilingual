@@ -5,3 +5,7 @@ __pycache__/
 _final-check.html
 _final-probe.html
 _shots/
+
+# 本地构建产物（Pages 发布副本见 docs/index.html）
+AI伦理论文精读_dev预览.html
+人工智能与机器人伦理学·中英精读.html

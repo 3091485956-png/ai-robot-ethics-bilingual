@@ -2,7 +2,11 @@
 
 对人工智能与机器人伦理学主题文章的中英双语精读项目：保留英文原文，逐段配中文译文、逻辑拆解、术语解释、背景知识与词汇标注，最终构建为一个独立的单文件 HTML 页面。
 
-最终成品：`人工智能与机器人伦理学·中英精读.html`（无需服务器，浏览器直接打开即可）。
+**📖 在线阅读**：<https://3091485956-png.github.io/ai-robot-ethics-bilingual/>
+
+线上版本由 GitHub Pages 从 `main` 分支的 `docs/index.html` 发布；本地构建时 `build.py` 会自动同步该发布副本。
+
+最终成品：`docs/index.html`（无需服务器，浏览器直接打开即可；本地构建另会生成中文名副本）。
 
 ## 项目结构
 
@@ -23,9 +27,14 @@ qa_shots.py / make_shot_build.py / make_probe.py   页面截图与人工核查�
 ## 构建方法
 
 ```bash
-python build.py            # 正式构建（要求四个分片齐全）
+python build.py            # 正式构建（要求四个分片齐全；同时更新 docs/index.html）
 python build.py --dev      # 开发预览（缺失标注用占位内容）
 ```
+
+## 发布
+
+- GitHub Pages：Settings → Pages → Source 选 `main` 分支 `/docs` 目录。
+- 构建后提交 `docs/index.html` 的变更即可自动重新发布，线上地址见顶部链接。
 
 ## 说明
 

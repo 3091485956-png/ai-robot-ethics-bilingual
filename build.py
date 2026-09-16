@@ -9,7 +9,7 @@ Usage:
 import json, re, sys
 from pathlib import Path
 
-ROOT = Path(r"C:\Users\loong\Desktop\人工智能与机器人伦理学")
+ROOT = Path(__file__).resolve().parent
 DEV = "--dev" in sys.argv
 
 ground = json.loads((ROOT / "article.json").read_text(encoding="utf-8"))
@@ -95,3 +95,10 @@ name = "AI伦理论文精读_dev预览.html" if DEV else "人工智能与机器�
 out_fp = ROOT / name
 out_fp.write_text(html_out, encoding="utf-8")
 print(f"built: {out_fp.name}  ({out_fp.stat().st_size/1024:.0f} KB)")
+
+# GitHub Pages 发布副本（main 分支 /docs 目录）
+if not DEV:
+    docs_fp = ROOT / "docs" / "index.html"
+    docs_fp.parent.mkdir(exist_ok=True)
+    docs_fp.write_text(html_out, encoding="utf-8")
+    print(f"pages copy: docs/index.html  ({docs_fp.stat().st_size/1024:.0f} KB)")
